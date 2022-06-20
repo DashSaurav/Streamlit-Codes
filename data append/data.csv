@@ -1,6 +1,5 @@
-Name,Age
-saurav,23
-manish,26
-manu,34.0
-saurav,56
-saurav,56
+Name,Age,Rating,Remark
+Saurav,22,4,It could be better
+Saurav,22,4,It could be better
+Pagal,45,0,pagal hai kya
+,23,0,Remark is None
