@@ -1,0 +1,3225 @@
+Name,Day,Reasons,Present
+Priya ,Wednesday,Health Issues,1
+Priya ,Thursday,None,0
+Priya ,Friday,None,1
+Priya ,Saturday,None,0
+Priya ,Sunday,Public Holiday,0
+Priya ,Monday,None,1
+Priya ,Tuesday,None,1
+Priya ,Wednesday,None,1
+Priya ,Thursday,None,1
+Priya ,Friday,None,1
+Priya ,Saturday,None,0
+Priya ,Sunday,Public Holiday,0
+Priya ,Monday,None,1
+Priya ,Tuesday,Health Issues,0
+Priya ,Wednesday,None,1
+Priya ,Thursday,None,1
+Priya ,Friday,Health Issues,0
+Priya ,Saturday,None,0
+Priya ,Sunday,Public Holiday,0
+Priya ,Monday,None,1
+Priya ,Tuesday,None,1
+Priya ,Wednesday,None,1
+Priya ,Thursday,Weekend,0
+Priya ,Friday,Weekend,0
+Priya ,Saturday,None,0
+Priya ,Sunday,Public Holiday,0
+Priya ,Monday,None,1
+Priya ,Tuesday,None,1
+Priya ,Wednesday,None,1
+Priya ,Thursday,None,1
+Priya ,Friday,None,1
+Priya ,Saturday,None,0
+Priya ,Sunday,Public Holiday,0
+Priya ,Monday,None,1
+Priya ,Tuesday,None,1
+Priya ,Wednesday,None,1
+Priya ,Thursday,None,1
+Priya ,Friday,None,1
+Priya ,Saturday,None,0
+Priya ,Sunday,Public Holiday,0
+Priya ,Monday,None,1
+Priya ,Tuesday,None,1
+Priya ,Wednesday,None,1
+Priya ,Thursday,None,1
+Priya ,Friday,None,1
+Priya ,Saturday,None,0
+Priya ,Sunday,Public Holiday,0
+Priya ,Monday,None,1
+Priya ,Tuesday,None,1
+Priya ,Wednesday,None,1
+Priya ,Thursday,Weather,0
+Priya ,Friday,None,1
+Priya ,Saturday,None,0
+Priya ,Sunday,Public Holiday,0
+Priya ,Monday,None,1
+Priya ,Tuesday,None,1
+Priya ,Wednesday,None,1
+Priya ,Thursday,None,1
+Priya ,Friday,None,1
+Priya ,Saturday,None,0
+Priya ,Sunday,Public Holiday,0
+Priya ,Monday,None,1
+Gourav,Wednesday,None,1
+Gourav,Thursday,None,1
+Gourav,Friday,None,1
+Gourav,Saturday,None,0
+Gourav,Sunday,Public Holiday,0
+Gourav,Monday,None,1
+Gourav,Tuesday,None,1
+Gourav,Wednesday,None,1
+Gourav,Thursday,None,1
+Gourav,Friday,None,1
+Gourav,Saturday,None,0
+Gourav,Sunday,Public Holiday,0
+Gourav,Monday,None,1
+Gourav,Tuesday,None,1
+Gourav,Wednesday,None,1
+Gourav,Thursday,None,1
+Gourav,Friday,None,1
+Gourav,Saturday,None,0
+Gourav,Sunday,Public Holiday,0
+Gourav,Monday,None,1
+Gourav,Tuesday,None,1
+Gourav,Wednesday,None,1
+Gourav,Thursday,None,1
+Gourav,Friday,Weekend,0
+Gourav,Saturday,None,0
+Gourav,Sunday,Public Holiday,0
+Gourav,Monday,None,1
+Gourav,Tuesday,None,1
+Gourav,Wednesday,None,1
+Gourav,Thursday,None,1
+Gourav,Friday,None,1
+Gourav,Saturday,None,0
+Gourav,Sunday,Public Holiday,0
+Gourav,Monday,None,1
+Gourav,Tuesday,None,1
+Gourav,Wednesday,None,1
+Gourav,Thursday,None,1
+Gourav,Friday,None,1
+Gourav,Saturday,None,0
+Gourav,Sunday,Public Holiday,0
+Gourav,Monday,None,1
+Gourav,Tuesday,None,1
+Gourav,Wednesday,None,1
+Gourav,Thursday,None,1
+Gourav,Friday,None,1
+Gourav,Saturday,None,0
+Gourav,Sunday,Public Holiday,0
+Gourav,Monday,None,1
+Gourav,Tuesday,None,1
+Gourav,Wednesday,None,1
+Gourav,Thursday,None,1
+Gourav,Friday,None,1
+Gourav,Saturday,None,0
+Gourav,Sunday,Public Holiday,0
+Gourav,Monday,None,1
+Gourav,Tuesday,None,1
+Gourav,Wednesday,None,0
+Gourav,Thursday,None,1
+Gourav,Friday,None,1
+Gourav,Saturday,None,0
+Gourav,Sunday,Public Holiday,0
+Gourav,Monday,None,1
+Rishi,Wednesday,None,1
+Rishi,Thursday,None,1
+Rishi,Friday,None,1
+Rishi,Saturday,None,0
+Rishi,Sunday,Public Holiday,0
+Rishi,Monday,None,1
+Rishi,Tuesday,None,1
+Rishi,Wednesday,None,1
+Rishi,Thursday,None,1
+Rishi,Friday,None,1
+Rishi,Saturday,None,0
+Rishi,Sunday,Public Holiday,0
+Rishi,Monday,None,1
+Rishi,Tuesday,None,1
+Rishi,Wednesday,None,1
+Rishi,Thursday,None,1
+Rishi,Friday,None,1
+Rishi,Saturday,None,0
+Rishi,Sunday,Public Holiday,0
+Rishi,Monday,None,1
+Rishi,Tuesday,None,1
+Rishi,Wednesday,None,1
+Rishi,Thursday,None,1
+Rishi,Friday,None,1
+Rishi,Saturday,None,0
+Rishi,Sunday,Public Holiday,0
+Rishi,Monday,None,1
+Rishi,Tuesday,None,1
+Rishi,Wednesday,None,1
+Rishi,Thursday,None,1
+Rishi,Friday,None,1
+Rishi,Saturday,None,0
+Rishi,Sunday,Public Holiday,0
+Rishi,Monday,None,1
+Rishi,Tuesday,None,1
+Rishi,Wednesday,None,1
+Rishi,Thursday,None,1
+Rishi,Friday,None,1
+Rishi,Saturday,None,0
+Rishi,Sunday,Public Holiday,0
+Rishi,Monday,None,1
+Rishi,Tuesday,None,1
+Rishi,Wednesday,None,1
+Rishi,Thursday,None,1
+Rishi,Friday,None,1
+Rishi,Saturday,None,0
+Rishi,Sunday,Public Holiday,0
+Rishi,Monday,None,1
+Rishi,Tuesday,None,1
+Rishi,Wednesday,Health Issues,0
+Rishi,Thursday,None,1
+Rishi,Friday,None,1
+Rishi,Saturday,None,0
+Rishi,Sunday,Public Holiday,0
+Rishi,Monday,None,1
+Rishi,Tuesday,None,1
+Rishi,Wednesday,None,1
+Rishi,Thursday,None,1
+Rishi,Friday,None,1
+Rishi,Saturday,None,0
+Rishi,Sunday,Public Holiday,0
+Rishi,Monday,None,1
+saurav,Wednesday,None,1
+saurav,Thursday,None,1
+saurav,Friday,None,1
+saurav,Saturday,None,0
+saurav,Sunday,Public Holiday,0
+saurav,Monday,None,1
+saurav,Tuesday,None,1
+saurav,Wednesday,None,1
+saurav,Thursday,None,1
+saurav,Friday,None,1
+saurav,Saturday,None,0
+saurav,Sunday,Public Holiday,0
+saurav,Monday,None,1
+saurav,Tuesday,None,1
+saurav,Wednesday,None,1
+saurav,Thursday,None,1
+saurav,Friday,None,1
+saurav,Saturday,None,0
+saurav,Sunday,Public Holiday,0
+saurav,Monday,None,1
+saurav,Tuesday,None,1
+saurav,Wednesday,None,1
+saurav,Thursday,None,1
+saurav,Friday,None,1
+saurav,Saturday,None,0
+saurav,Sunday,Public Holiday,0
+saurav,Monday,None,1
+saurav,Tuesday,None,1
+saurav,Wednesday,None,1
+saurav,Thursday,None,1
+saurav,Friday,None,1
+saurav,Saturday,None,0
+saurav,Sunday,Public Holiday,0
+saurav,Monday,None,1
+saurav,Tuesday,None,1
+saurav,Wednesday,None,1
+saurav,Thursday,None,1
+saurav,Friday,None,1
+saurav,Saturday,None,0
+saurav,Sunday,Public Holiday,0
+saurav,Monday,None,1
+saurav,Tuesday,None,1
+saurav,Wednesday,None,1
+saurav,Thursday,None,1
+saurav,Friday,None,1
+saurav,Saturday,None,0
+saurav,Sunday,Public Holiday,0
+saurav,Monday,None,1
+saurav,Tuesday,None,1
+saurav,Wednesday,None,1
+saurav,Thursday,None,1
+saurav,Friday,None,1
+saurav,Saturday,None,0
+saurav,Sunday,Public Holiday,0
+saurav,Monday,None,1
+saurav,Tuesday,None,1
+saurav,Wednesday,None,1
+saurav,Thursday,None,1
+saurav,Friday,None,1
+saurav,Saturday,None,0
+saurav,Sunday,Public Holiday,0
+saurav,Monday,None,1
+neha,Wednesday,None,1
+neha,Thursday,None,1
+neha,Friday,None,1
+neha,Saturday,None,0
+neha,Sunday,Public Holiday,0
+neha,Monday,None,1
+neha,Tuesday,None,1
+neha,Wednesday,None,1
+neha,Thursday,Weather,0
+neha,Friday,None,1
+neha,Saturday,None,0
+neha,Sunday,Public Holiday,0
+neha,Monday,None,1
+neha,Tuesday,None,1
+neha,Wednesday,None,1
+neha,Thursday,None,1
+neha,Friday,None,1
+neha,Saturday,None,0
+neha,Sunday,Public Holiday,0
+neha,Monday,None,1
+neha,Tuesday,None,1
+neha,Wednesday,None,1
+neha,Thursday,None,1
+neha,Friday,None,1
+neha,Saturday,None,0
+neha,Sunday,Public Holiday,0
+neha,Monday,None,1
+neha,Tuesday,None,1
+neha,Wednesday,None,1
+neha,Thursday,None,1
+neha,Friday,None,1
+neha,Saturday,None,0
+neha,Sunday,Public Holiday,0
+neha,Monday,None,1
+neha,Tuesday,None,1
+neha,Wednesday,None,1
+neha,Thursday,None,1
+neha,Friday,None,1
+neha,Saturday,None,0
+neha,Sunday,Public Holiday,0
+neha,Monday,None,1
+neha,Tuesday,None,1
+neha,Wednesday,None,1
+neha,Thursday,None,1
+neha,Friday,None,1
+neha,Saturday,None,0
+neha,Sunday,Public Holiday,0
+neha,Monday,None,1
+neha,Tuesday,None,1
+neha,Wednesday,None,1
+neha,Thursday,None,1
+neha,Friday,None,1
+neha,Saturday,None,0
+neha,Sunday,Public Holiday,0
+neha,Monday,None,1
+neha,Tuesday,None,1
+neha,Wednesday,None,1
+neha,Thursday,None,1
+neha,Friday,None,1
+neha,Saturday,None,0
+neha,Sunday,Public Holiday,0
+neha,Monday,None,1
+arun,Wednesday,None,1
+arun,Thursday,None,1
+arun,Friday,None,1
+arun,Saturday,None,0
+arun,Sunday,Public Holiday,0
+arun,Monday,None,1
+arun,Tuesday,None,1
+arun,Wednesday,None,1
+arun,Thursday,None,1
+arun,Friday,None,1
+arun,Saturday,None,0
+arun,Sunday,Public Holiday,0
+arun,Monday,None,1
+arun,Tuesday,None,1
+arun,Wednesday,None,1
+arun,Thursday,None,1
+arun,Friday,None,1
+arun,Saturday,None,0
+arun,Sunday,Public Holiday,0
+arun,Monday,None,1
+arun,Tuesday,None,1
+arun,Wednesday,None,1
+arun,Thursday,None,1
+arun,Friday,None,1
+arun,Saturday,None,0
+arun,Sunday,Public Holiday,0
+arun,Monday,None,1
+arun,Tuesday,None,1
+arun,Wednesday,None,1
+arun,Thursday,None,1
+arun,Friday,None,1
+arun,Saturday,None,0
+arun,Sunday,Public Holiday,0
+arun,Monday,None,1
+arun,Tuesday,None,1
+arun,Wednesday,None,1
+arun,Thursday,None,1
+arun,Friday,None,1
+arun,Saturday,None,0
+arun,Sunday,Public Holiday,0
+arun,Monday,None,1
+arun,Tuesday,None,1
+arun,Wednesday,None,1
+arun,Thursday,None,1
+arun,Friday,None,1
+arun,Saturday,None,0
+arun,Sunday,Public Holiday,0
+arun,Monday,None,1
+arun,Tuesday,None,1
+arun,Wednesday,None,1
+arun,Thursday,None,1
+arun,Friday,None,1
+arun,Saturday,None,0
+arun,Sunday,Public Holiday,0
+arun,Monday,None,1
+arun,Tuesday,None,1
+arun,Wednesday,None,1
+arun,Thursday,None,1
+arun,Friday,None,1
+arun,Saturday,None,0
+arun,Sunday,Public Holiday,0
+arun,Monday,None,1
+abhishek,Wednesday,None,1
+abhishek,Thursday,None,1
+abhishek,Friday,None,1
+abhishek,Saturday,None,0
+abhishek,Sunday,Public Holiday,0
+abhishek,Monday,None,1
+abhishek,Tuesday,None,1
+abhishek,Wednesday,None,1
+abhishek,Thursday,None,1
+abhishek,Friday,None,1
+abhishek,Saturday,None,0
+abhishek,Sunday,Public Holiday,0
+abhishek,Monday,None,1
+abhishek,Tuesday,None,1
+abhishek,Wednesday,None,1
+abhishek,Thursday,None,1
+abhishek,Friday,None,1
+abhishek,Saturday,None,0
+abhishek,Sunday,Public Holiday,0
+abhishek,Monday,None,1
+abhishek,Tuesday,None,1
+abhishek,Wednesday,None,1
+abhishek,Thursday,None,1
+abhishek,Friday,None,1
+abhishek,Saturday,None,0
+abhishek,Sunday,Public Holiday,0
+abhishek,Monday,None,1
+abhishek,Tuesday,None,1
+abhishek,Wednesday,None,1
+abhishek,Thursday,None,1
+abhishek,Friday,None,1
+abhishek,Saturday,None,0
+abhishek,Sunday,Public Holiday,0
+abhishek,Monday,None,1
+abhishek,Tuesday,None,1
+abhishek,Wednesday,None,1
+abhishek,Thursday,None,1
+abhishek,Friday,None,1
+abhishek,Saturday,None,0
+abhishek,Sunday,Public Holiday,0
+abhishek,Monday,None,1
+abhishek,Tuesday,None,1
+abhishek,Wednesday,None,1
+abhishek,Thursday,None,1
+abhishek,Friday,None,1
+abhishek,Saturday,None,0
+abhishek,Sunday,Public Holiday,0
+abhishek,Monday,None,1
+abhishek,Tuesday,None,1
+abhishek,Wednesday,None,1
+abhishek,Thursday,None,1
+abhishek,Friday,None,1
+abhishek,Saturday,None,0
+abhishek,Sunday,Public Holiday,0
+abhishek,Monday,None,1
+abhishek,Tuesday,None,1
+abhishek,Wednesday,None,1
+abhishek,Thursday,None,1
+abhishek,Friday,None,1
+abhishek,Saturday,None,0
+abhishek,Sunday,Public Holiday,0
+abhishek,Monday,None,1
+mayank,Wednesday,None,1
+mayank,Thursday,None,1
+mayank,Friday,None,1
+mayank,Saturday,None,0
+mayank,Sunday,Public Holiday,0
+mayank,Monday,None,1
+mayank,Tuesday,None,1
+mayank,Wednesday,None,1
+mayank,Thursday,None,1
+mayank,Friday,None,1
+mayank,Saturday,None,0
+mayank,Sunday,Public Holiday,0
+mayank,Monday,None,1
+mayank,Tuesday,None,1
+mayank,Wednesday,None,1
+mayank,Thursday,None,1
+mayank,Friday,None,1
+mayank,Saturday,None,0
+mayank,Sunday,Public Holiday,0
+mayank,Monday,None,1
+mayank,Tuesday,None,1
+mayank,Wednesday,None,1
+mayank,Thursday,Health Issues,0
+mayank,Friday,None,1
+mayank,Saturday,None,0
+mayank,Sunday,Public Holiday,0
+mayank,Monday,None,1
+mayank,Tuesday,None,1
+mayank,Wednesday,None,1
+mayank,Thursday,None,1
+mayank,Friday,None,1
+mayank,Saturday,None,0
+mayank,Sunday,Public Holiday,0
+mayank,Monday,None,1
+mayank,Tuesday,None,1
+mayank,Wednesday,None,1
+mayank,Thursday,None,1
+mayank,Friday,None,1
+mayank,Saturday,None,0
+mayank,Sunday,Public Holiday,0
+mayank,Monday,None,1
+mayank,Tuesday,None,1
+mayank,Wednesday,None,1
+mayank,Thursday,None,1
+mayank,Friday,None,1
+mayank,Saturday,None,0
+mayank,Sunday,Public Holiday,0
+mayank,Monday,None,1
+mayank,Tuesday,None,1
+mayank,Wednesday,None,1
+mayank,Thursday,None,1
+mayank,Friday,None,1
+mayank,Saturday,None,0
+mayank,Sunday,Public Holiday,0
+mayank,Monday,None,1
+mayank,Tuesday,None,1
+mayank,Wednesday,None,1
+mayank,Thursday,None,1
+mayank,Friday,None,1
+mayank,Saturday,None,0
+mayank,Sunday,Public Holiday,0
+mayank,Monday,None,1
+neeraj,Wednesday,None,1
+neeraj,Thursday,None,1
+neeraj,Friday,None,1
+neeraj,Saturday,None,0
+neeraj,Sunday,Public Holiday,0
+neeraj,Monday,None,1
+neeraj,Tuesday,None,1
+neeraj,Wednesday,None,1
+neeraj,Thursday,None,1
+neeraj,Friday,None,1
+neeraj,Saturday,None,0
+neeraj,Sunday,Public Holiday,0
+neeraj,Monday,None,1
+neeraj,Tuesday,None,1
+neeraj,Wednesday,None,1
+neeraj,Thursday,None,1
+neeraj,Friday,None,1
+neeraj,Saturday,None,0
+neeraj,Sunday,Public Holiday,0
+neeraj,Monday,None,1
+neeraj,Tuesday,None,1
+neeraj,Wednesday,None,1
+neeraj,Thursday,None,1
+neeraj,Friday,None,1
+neeraj,Saturday,None,0
+neeraj,Sunday,Public Holiday,0
+neeraj,Monday,None,1
+neeraj,Tuesday,None,1
+neeraj,Wednesday,None,1
+neeraj,Thursday,None,1
+neeraj,Friday,None,1
+neeraj,Saturday,None,0
+neeraj,Sunday,Public Holiday,0
+neeraj,Monday,None,1
+neeraj,Tuesday,None,1
+neeraj,Wednesday,None,1
+neeraj,Thursday,None,1
+neeraj,Friday,None,1
+neeraj,Saturday,None,0
+neeraj,Sunday,Public Holiday,0
+neeraj,Monday,None,1
+neeraj,Tuesday,None,1
+neeraj,Wednesday,None,1
+neeraj,Thursday,None,1
+neeraj,Friday,None,1
+neeraj,Saturday,None,0
+neeraj,Sunday,Public Holiday,0
+neeraj,Monday,None,1
+neeraj,Tuesday,None,1
+neeraj,Wednesday,None,1
+neeraj,Thursday,None,1
+neeraj,Friday,None,1
+neeraj,Saturday,None,0
+neeraj,Sunday,Public Holiday,0
+neeraj,Monday,None,1
+neeraj,Tuesday,None,1
+neeraj,Wednesday,None,1
+neeraj,Thursday,None,1
+neeraj,Friday,None,1
+neeraj,Saturday,None,0
+neeraj,Sunday,Public Holiday,0
+neeraj,Monday,None,1
+prince,Wednesday,None,1
+prince,Thursday,None,1
+prince,Friday,None,1
+prince,Saturday,None,0
+prince,Sunday,Public Holiday,0
+prince,Monday,None,1
+prince,Tuesday,None,1
+prince,Wednesday,Weather,0
+prince,Thursday,None,1
+prince,Friday,None,1
+prince,Saturday,None,0
+prince,Sunday,Public Holiday,0
+prince,Monday,None,1
+prince,Tuesday,None,1
+prince,Wednesday,None,1
+prince,Thursday,None,1
+prince,Friday,None,1
+prince,Saturday,None,0
+prince,Sunday,Public Holiday,0
+prince,Monday,Weekend,0
+prince,Tuesday,None,1
+prince,Wednesday,None,1
+prince,Thursday,None,1
+prince,Friday,None,1
+prince,Saturday,None,0
+prince,Sunday,Public Holiday,0
+prince,Monday,None,1
+prince,Tuesday,None,1
+prince,Wednesday,None,1
+prince,Thursday,None,1
+prince,Friday,None,1
+prince,Saturday,None,0
+prince,Sunday,Public Holiday,0
+prince,Monday,None,1
+prince,Tuesday,None,1
+prince,Wednesday,None,1
+prince,Thursday,None,1
+prince,Friday,None,1
+prince,Saturday,None,0
+prince,Sunday,Public Holiday,0
+prince,Monday,None,1
+prince,Tuesday,None,1
+prince,Wednesday,None,1
+prince,Thursday,None,1
+prince,Friday,None,1
+prince,Saturday,None,0
+prince,Sunday,Public Holiday,0
+prince,Monday,None,1
+prince,Tuesday,None,1
+prince,Wednesday,None,1
+prince,Thursday,None,1
+prince,Friday,None,1
+prince,Saturday,None,0
+prince,Sunday,Public Holiday,0
+prince,Monday,None,1
+prince,Tuesday,None,1
+prince,Wednesday,None,1
+prince,Thursday,None,1
+prince,Friday,None,1
+prince,Saturday,None,0
+prince,Sunday,Public Holiday,0
+prince,Monday,None,1
+singh,Wednesday,None,1
+singh,Thursday,None,1
+singh,Friday,None,1
+singh,Saturday,None,0
+singh,Sunday,Public Holiday,0
+singh,Monday,None,1
+singh,Tuesday,None,1
+singh,Wednesday,None,1
+singh,Thursday,None,1
+singh,Friday,None,1
+singh,Saturday,None,0
+singh,Sunday,Public Holiday,0
+singh,Monday,None,1
+singh,Tuesday,None,1
+singh,Wednesday,None,1
+singh,Thursday,None,1
+singh,Friday,None,1
+singh,Saturday,None,0
+singh,Sunday,Public Holiday,0
+singh,Monday,None,1
+singh,Tuesday,None,1
+singh,Wednesday,None,1
+singh,Thursday,None,1
+singh,Friday,None,1
+singh,Saturday,None,0
+singh,Sunday,Public Holiday,0
+singh,Monday,None,1
+singh,Tuesday,None,1
+singh,Wednesday,None,1
+singh,Thursday,None,1
+singh,Friday,None,1
+singh,Saturday,None,0
+singh,Sunday,Public Holiday,0
+singh,Monday,None,1
+singh,Tuesday,None,1
+singh,Wednesday,None,1
+singh,Thursday,None,1
+singh,Friday,None,1
+singh,Saturday,None,0
+singh,Sunday,Public Holiday,0
+singh,Monday,None,1
+singh,Tuesday,None,1
+singh,Wednesday,None,1
+singh,Thursday,None,1
+singh,Friday,None,1
+singh,Saturday,None,0
+singh,Sunday,Public Holiday,0
+singh,Monday,None,1
+singh,Tuesday,None,1
+singh,Wednesday,None,1
+singh,Thursday,None,1
+singh,Friday,None,1
+singh,Saturday,None,0
+singh,Sunday,Public Holiday,0
+singh,Monday,None,1
+singh,Tuesday,None,1
+singh,Wednesday,None,1
+singh,Thursday,None,1
+singh,Friday,None,1
+singh,Saturday,None,0
+singh,Sunday,Public Holiday,0
+singh,Monday,None,1
+arjun,Wednesday,None,1
+arjun,Thursday,None,1
+arjun,Friday,None,1
+arjun,Saturday,None,0
+arjun,Sunday,Public Holiday,0
+arjun,Monday,None,1
+arjun,Tuesday,None,1
+arjun,Wednesday,None,1
+arjun,Thursday,None,1
+arjun,Friday,None,1
+arjun,Saturday,None,0
+arjun,Sunday,Public Holiday,0
+arjun,Monday,None,1
+arjun,Tuesday,None,1
+arjun,Wednesday,None,1
+arjun,Thursday,None,1
+arjun,Friday,None,1
+arjun,Saturday,None,0
+arjun,Sunday,Public Holiday,0
+arjun,Monday,None,1
+arjun,Tuesday,None,1
+arjun,Wednesday,None,1
+arjun,Thursday,None,1
+arjun,Friday,None,1
+arjun,Saturday,None,0
+arjun,Sunday,Public Holiday,0
+arjun,Monday,None,1
+arjun,Tuesday,None,1
+arjun,Wednesday,None,1
+arjun,Thursday,None,1
+arjun,Friday,None,1
+arjun,Saturday,None,0
+arjun,Sunday,Public Holiday,0
+arjun,Monday,None,1
+arjun,Tuesday,None,1
+arjun,Wednesday,None,1
+arjun,Thursday,None,1
+arjun,Friday,None,1
+arjun,Saturday,None,0
+arjun,Sunday,Public Holiday,0
+arjun,Monday,None,1
+arjun,Tuesday,None,1
+arjun,Wednesday,None,1
+arjun,Thursday,None,1
+arjun,Friday,None,1
+arjun,Saturday,None,0
+arjun,Sunday,Public Holiday,0
+arjun,Monday,None,1
+arjun,Tuesday,None,1
+arjun,Wednesday,None,1
+arjun,Thursday,None,1
+arjun,Friday,None,1
+arjun,Saturday,None,0
+arjun,Sunday,Public Holiday,0
+arjun,Monday,None,1
+arjun,Tuesday,None,1
+arjun,Wednesday,None,1
+arjun,Thursday,None,1
+arjun,Friday,None,1
+arjun,Saturday,None,0
+arjun,Sunday,Public Holiday,0
+arjun,Monday,None,1
+ajay,Wednesday,None,1
+ajay,Thursday,None,1
+ajay,Friday,None,1
+ajay,Saturday,None,0
+ajay,Sunday,Public Holiday,0
+ajay,Monday,None,1
+ajay,Tuesday,None,1
+ajay,Wednesday,None,1
+ajay,Thursday,None,1
+ajay,Friday,None,1
+ajay,Saturday,None,0
+ajay,Sunday,Public Holiday,0
+ajay,Monday,None,1
+ajay,Tuesday,None,1
+ajay,Wednesday,None,1
+ajay,Thursday,None,1
+ajay,Friday,None,1
+ajay,Saturday,None,0
+ajay,Sunday,Public Holiday,0
+ajay,Monday,None,1
+ajay,Tuesday,None,1
+ajay,Wednesday,None,1
+ajay,Thursday,None,1
+ajay,Friday,None,1
+ajay,Saturday,None,0
+ajay,Sunday,Public Holiday,0
+ajay,Monday,None,1
+ajay,Tuesday,None,1
+ajay,Wednesday,None,1
+ajay,Thursday,Health Issues,0
+ajay,Friday,None,1
+ajay,Saturday,None,0
+ajay,Sunday,Public Holiday,0
+ajay,Monday,None,1
+ajay,Tuesday,None,1
+ajay,Wednesday,None,1
+ajay,Thursday,None,1
+ajay,Friday,None,1
+ajay,Saturday,None,0
+ajay,Sunday,Public Holiday,0
+ajay,Monday,None,1
+ajay,Tuesday,None,1
+ajay,Wednesday,None,1
+ajay,Thursday,None,1
+ajay,Friday,None,1
+ajay,Saturday,None,0
+ajay,Sunday,Public Holiday,0
+ajay,Monday,None,1
+ajay,Tuesday,None,1
+ajay,Wednesday,None,1
+ajay,Thursday,None,1
+ajay,Friday,None,1
+ajay,Saturday,None,0
+ajay,Sunday,Public Holiday,0
+ajay,Monday,None,1
+ajay,Tuesday,None,1
+ajay,Wednesday,None,1
+ajay,Thursday,None,1
+ajay,Friday,None,1
+ajay,Saturday,None,0
+ajay,Sunday,Public Holiday,0
+ajay,Monday,None,1
+ayush,Wednesday,None,1
+ayush,Thursday,None,1
+ayush,Friday,None,1
+ayush,Saturday,None,0
+ayush,Sunday,Public Holiday,0
+ayush,Monday,None,1
+ayush,Tuesday,None,1
+ayush,Wednesday,None,1
+ayush,Thursday,None,1
+ayush,Friday,None,1
+ayush,Saturday,None,0
+ayush,Sunday,Public Holiday,0
+ayush,Monday,None,1
+ayush,Tuesday,None,1
+ayush,Wednesday,None,1
+ayush,Thursday,None,1
+ayush,Friday,None,1
+ayush,Saturday,None,0
+ayush,Sunday,Public Holiday,0
+ayush,Monday,None,1
+ayush,Tuesday,None,1
+ayush,Wednesday,None,1
+ayush,Thursday,None,1
+ayush,Friday,None,1
+ayush,Saturday,None,0
+ayush,Sunday,Public Holiday,0
+ayush,Monday,None,1
+ayush,Tuesday,None,1
+ayush,Wednesday,None,1
+ayush,Thursday,None,1
+ayush,Friday,None,1
+ayush,Saturday,None,0
+ayush,Sunday,Public Holiday,0
+ayush,Monday,None,1
+ayush,Tuesday,None,1
+ayush,Wednesday,None,1
+ayush,Thursday,None,1
+ayush,Friday,None,1
+ayush,Saturday,None,0
+ayush,Sunday,Public Holiday,0
+ayush,Monday,None,1
+ayush,Tuesday,None,1
+ayush,Wednesday,None,1
+ayush,Thursday,None,1
+ayush,Friday,None,1
+ayush,Saturday,None,0
+ayush,Sunday,Public Holiday,0
+ayush,Monday,None,1
+ayush,Tuesday,None,1
+ayush,Wednesday,None,1
+ayush,Thursday,None,1
+ayush,Friday,None,1
+ayush,Saturday,None,0
+ayush,Sunday,Public Holiday,0
+ayush,Monday,None,1
+ayush,Tuesday,None,1
+ayush,Wednesday,None,1
+ayush,Thursday,None,1
+ayush,Friday,None,1
+ayush,Saturday,None,0
+ayush,Sunday,Public Holiday,0
+ayush,Monday,None,1
+priyanka,Wednesday,None,1
+priyanka,Thursday,None,1
+priyanka,Friday,None,1
+priyanka,Saturday,None,0
+priyanka,Sunday,Public Holiday,0
+priyanka,Monday,None,1
+priyanka,Tuesday,None,1
+priyanka,Wednesday,None,1
+priyanka,Thursday,None,1
+priyanka,Friday,None,1
+priyanka,Saturday,None,0
+priyanka,Sunday,Public Holiday,0
+priyanka,Monday,None,1
+priyanka,Tuesday,None,1
+priyanka,Wednesday,None,1
+priyanka,Thursday,None,1
+priyanka,Friday,None,1
+priyanka,Saturday,None,0
+priyanka,Sunday,Public Holiday,0
+priyanka,Monday,None,1
+priyanka,Tuesday,None,1
+priyanka,Wednesday,None,1
+priyanka,Thursday,None,1
+priyanka,Friday,None,1
+priyanka,Saturday,None,0
+priyanka,Sunday,Public Holiday,0
+priyanka,Monday,None,1
+priyanka,Tuesday,None,1
+priyanka,Wednesday,None,1
+priyanka,Thursday,None,1
+priyanka,Friday,None,1
+priyanka,Saturday,None,0
+priyanka,Sunday,Public Holiday,0
+priyanka,Monday,None,1
+priyanka,Tuesday,None,1
+priyanka,Wednesday,None,1
+priyanka,Thursday,None,1
+priyanka,Friday,None,1
+priyanka,Saturday,None,0
+priyanka,Sunday,Public Holiday,0
+priyanka,Monday,None,1
+priyanka,Tuesday,None,1
+priyanka,Wednesday,None,1
+priyanka,Thursday,None,1
+priyanka,Friday,None,1
+priyanka,Saturday,None,0
+priyanka,Sunday,Public Holiday,0
+priyanka,Monday,None,1
+priyanka,Tuesday,None,1
+priyanka,Wednesday,Health Issues,0
+priyanka,Thursday,None,1
+priyanka,Friday,None,1
+priyanka,Saturday,None,0
+priyanka,Sunday,Public Holiday,0
+priyanka,Monday,None,1
+priyanka,Tuesday,None,1
+priyanka,Wednesday,None,1
+priyanka,Thursday,None,1
+priyanka,Friday,None,1
+priyanka,Saturday,None,0
+priyanka,Sunday,Public Holiday,0
+priyanka,Monday,None,1
+shantanu,Wednesday,None,1
+shantanu,Thursday,None,1
+shantanu,Friday,None,1
+shantanu,Saturday,None,0
+shantanu,Sunday,Public Holiday,0
+shantanu,Monday,None,1
+shantanu,Tuesday,None,1
+shantanu,Wednesday,None,1
+shantanu,Thursday,None,1
+shantanu,Friday,None,1
+shantanu,Saturday,None,0
+shantanu,Sunday,Public Holiday,0
+shantanu,Monday,None,1
+shantanu,Tuesday,None,1
+shantanu,Wednesday,None,1
+shantanu,Thursday,None,1
+shantanu,Friday,None,1
+shantanu,Saturday,None,0
+shantanu,Sunday,Public Holiday,0
+shantanu,Monday,None,1
+shantanu,Tuesday,None,1
+shantanu,Wednesday,Weather,0
+shantanu,Thursday,None,1
+shantanu,Friday,None,1
+shantanu,Saturday,None,0
+shantanu,Sunday,Public Holiday,0
+shantanu,Monday,None,1
+shantanu,Tuesday,None,1
+shantanu,Wednesday,None,1
+shantanu,Thursday,None,1
+shantanu,Friday,None,1
+shantanu,Saturday,None,0
+shantanu,Sunday,Public Holiday,0
+shantanu,Monday,None,1
+shantanu,Tuesday,None,1
+shantanu,Wednesday,None,1
+shantanu,Thursday,None,1
+shantanu,Friday,None,1
+shantanu,Saturday,None,0
+shantanu,Sunday,Public Holiday,0
+shantanu,Monday,None,1
+shantanu,Tuesday,None,1
+shantanu,Wednesday,None,1
+shantanu,Thursday,None,1
+shantanu,Friday,None,1
+shantanu,Saturday,None,0
+shantanu,Sunday,Public Holiday,0
+shantanu,Monday,None,1
+shantanu,Tuesday,None,1
+shantanu,Wednesday,None,1
+shantanu,Thursday,None,1
+shantanu,Friday,None,1
+shantanu,Saturday,None,0
+shantanu,Sunday,Public Holiday,0
+shantanu,Monday,None,1
+shantanu,Tuesday,None,1
+shantanu,Wednesday,None,1
+shantanu,Thursday,None,1
+shantanu,Friday,None,1
+shantanu,Saturday,None,0
+shantanu,Sunday,Public Holiday,0
+shantanu,Monday,None,1
+mehak,Wednesday,None,1
+mehak,Thursday,None,1
+mehak,Friday,None,1
+mehak,Saturday,None,0
+mehak,Sunday,Public Holiday,0
+mehak,Monday,None,1
+mehak,Tuesday,None,1
+mehak,Wednesday,None,1
+mehak,Thursday,None,1
+mehak,Friday,None,1
+mehak,Saturday,None,0
+mehak,Sunday,Public Holiday,0
+mehak,Monday,None,1
+mehak,Tuesday,None,1
+mehak,Wednesday,None,1
+mehak,Thursday,None,1
+mehak,Friday,None,1
+mehak,Saturday,None,0
+mehak,Sunday,Public Holiday,0
+mehak,Monday,None,1
+mehak,Tuesday,None,1
+mehak,Wednesday,None,1
+mehak,Thursday,None,1
+mehak,Friday,Weekend,0
+mehak,Saturday,None,0
+mehak,Sunday,Public Holiday,0
+mehak,Monday,None,1
+mehak,Tuesday,None,1
+mehak,Wednesday,None,1
+mehak,Thursday,None,1
+mehak,Friday,None,1
+mehak,Saturday,None,0
+mehak,Sunday,Public Holiday,0
+mehak,Monday,None,1
+mehak,Tuesday,None,1
+mehak,Wednesday,None,1
+mehak,Thursday,None,1
+mehak,Friday,None,1
+mehak,Saturday,None,0
+mehak,Sunday,Public Holiday,0
+mehak,Monday,None,1
+mehak,Tuesday,None,1
+mehak,Wednesday,None,1
+mehak,Thursday,None,1
+mehak,Friday,None,1
+mehak,Saturday,None,0
+mehak,Sunday,Public Holiday,0
+mehak,Monday,None,1
+mehak,Tuesday,None,1
+mehak,Wednesday,None,1
+mehak,Thursday,None,1
+mehak,Friday,None,1
+mehak,Saturday,None,0
+mehak,Sunday,Public Holiday,0
+mehak,Monday,None,1
+mehak,Tuesday,None,1
+mehak,Wednesday,None,1
+mehak,Thursday,None,1
+mehak,Friday,None,1
+mehak,Saturday,None,0
+mehak,Sunday,Public Holiday,0
+mehak,Monday,None,1
+poorvi,Wednesday,None,1
+poorvi,Thursday,None,1
+poorvi,Friday,None,1
+poorvi,Saturday,None,0
+poorvi,Sunday,Public Holiday,0
+poorvi,Monday,None,1
+poorvi,Tuesday,Health Issues,0
+poorvi,Wednesday,None,1
+poorvi,Thursday,None,1
+poorvi,Friday,None,1
+poorvi,Saturday,None,0
+poorvi,Sunday,Public Holiday,0
+poorvi,Monday,None,1
+poorvi,Tuesday,None,1
+poorvi,Wednesday,None,1
+poorvi,Thursday,None,1
+poorvi,Friday,None,1
+poorvi,Saturday,None,0
+poorvi,Sunday,Public Holiday,0
+poorvi,Monday,None,1
+poorvi,Tuesday,Health Issues,0
+poorvi,Wednesday,None,1
+poorvi,Thursday,None,1
+poorvi,Friday,Weekend,1
+poorvi,Saturday,None,0
+poorvi,Sunday,Public Holiday,0
+poorvi,Monday,None,1
+poorvi,Tuesday,None,1
+poorvi,Wednesday,None,1
+poorvi,Thursday,None,1
+poorvi,Friday,None,1
+poorvi,Saturday,None,0
+poorvi,Sunday,Public Holiday,0
+poorvi,Monday,Health Issues,0
+poorvi,Tuesday,None,1
+poorvi,Wednesday,None,1
+poorvi,Thursday,Health Issues,0
+poorvi,Friday,None,1
+poorvi,Saturday,None,0
+poorvi,Sunday,Public Holiday,0
+poorvi,Monday,None,1
+poorvi,Tuesday,None,1
+poorvi,Wednesday,None,1
+poorvi,Thursday,None,1
+poorvi,Friday,None,1
+poorvi,Saturday,None,0
+poorvi,Sunday,Public Holiday,0
+poorvi,Monday,None,1
+poorvi,Tuesday,None,1
+poorvi,Wednesday,None,1
+poorvi,Thursday,Weather,1
+poorvi,Friday,None,1
+poorvi,Saturday,None,0
+poorvi,Sunday,Public Holiday,0
+poorvi,Monday,None,1
+poorvi,Tuesday,None,1
+poorvi,Wednesday,None,1
+poorvi,Thursday,None,1
+poorvi,Friday,None,1
+poorvi,Saturday,None,0
+poorvi,Sunday,Public Holiday,0
+poorvi,Monday,None,1
+sidhika,Wednesday,None,1
+sidhika,Thursday,None,1
+sidhika,Friday,None,1
+sidhika,Saturday,None,0
+sidhika,Sunday,Public Holiday,0
+sidhika,Monday,None,1
+sidhika,Tuesday,None,1
+sidhika,Wednesday,None,1
+sidhika,Thursday,None,1
+sidhika,Friday,None,1
+sidhika,Saturday,None,0
+sidhika,Sunday,Public Holiday,0
+sidhika,Monday,None,1
+sidhika,Tuesday,None,1
+sidhika,Wednesday,None,1
+sidhika,Thursday,None,1
+sidhika,Friday,None,1
+sidhika,Saturday,None,0
+sidhika,Sunday,Public Holiday,0
+sidhika,Monday,None,1
+sidhika,Tuesday,Health Issues,0
+sidhika,Wednesday,None,1
+sidhika,Thursday,None,1
+sidhika,Friday,Weekend,1
+sidhika,Saturday,None,0
+sidhika,Sunday,Public Holiday,0
+sidhika,Monday,None,1
+sidhika,Tuesday,None,1
+sidhika,Wednesday,None,1
+sidhika,Thursday,None,1
+sidhika,Friday,None,1
+sidhika,Saturday,None,0
+sidhika,Sunday,Public Holiday,0
+sidhika,Monday,Health Issues,0
+sidhika,Tuesday,None,1
+sidhika,Wednesday,None,1
+sidhika,Thursday,Health Issues,1
+sidhika,Friday,None,1
+sidhika,Saturday,None,0
+sidhika,Sunday,Public Holiday,0
+sidhika,Monday,None,1
+sidhika,Tuesday,None,1
+sidhika,Wednesday,None,1
+sidhika,Thursday,None,1
+sidhika,Friday,None,1
+sidhika,Saturday,None,0
+sidhika,Sunday,Public Holiday,0
+sidhika,Monday,None,1
+sidhika,Tuesday,None,1
+sidhika,Wednesday,None,1
+sidhika,Thursday,Weather,1
+sidhika,Friday,None,1
+sidhika,Saturday,None,0
+sidhika,Sunday,Public Holiday,0
+sidhika,Monday,None,1
+sidhika,Tuesday,None,1
+sidhika,Wednesday,None,1
+sidhika,Thursday,None,1
+sidhika,Friday,None,1
+sidhika,Saturday,None,0
+sidhika,Sunday,Public Holiday,0
+sidhika,Monday,None,1
+hunny,Wednesday,None,1
+hunny,Thursday,None,1
+hunny,Friday,None,1
+hunny,Saturday,None,0
+hunny,Sunday,Public Holiday,0
+hunny,Monday,None,1
+hunny,Tuesday,None,1
+hunny,Wednesday,None,1
+hunny,Thursday,None,1
+hunny,Friday,None,1
+hunny,Saturday,None,0
+hunny,Sunday,Public Holiday,0
+hunny,Monday,None,1
+hunny,Tuesday,None,1
+hunny,Wednesday,None,1
+hunny,Thursday,None,1
+hunny,Friday,None,1
+hunny,Saturday,None,0
+hunny,Sunday,Public Holiday,0
+hunny,Monday,None,1
+hunny,Tuesday,Health Issues,0
+hunny,Wednesday,None,1
+hunny,Thursday,None,1
+hunny,Friday,Weekend,1
+hunny,Saturday,None,0
+hunny,Sunday,Public Holiday,0
+hunny,Monday,None,1
+hunny,Tuesday,None,1
+hunny,Wednesday,None,1
+hunny,Thursday,None,1
+hunny,Friday,None,1
+hunny,Saturday,None,0
+hunny,Sunday,Public Holiday,0
+hunny,Monday,Health Issues,0
+hunny,Tuesday,None,1
+hunny,Wednesday,None,1
+hunny,Thursday,Health Issues,0
+hunny,Friday,None,1
+hunny,Saturday,None,0
+hunny,Sunday,Public Holiday,0
+hunny,Monday,None,1
+hunny,Tuesday,None,1
+hunny,Wednesday,None,1
+hunny,Thursday,None,1
+hunny,Friday,None,1
+hunny,Saturday,None,0
+hunny,Sunday,Public Holiday,0
+hunny,Monday,None,1
+hunny,Tuesday,None,1
+hunny,Wednesday,None,1
+hunny,Thursday,Weather,1
+hunny,Friday,None,1
+hunny,Saturday,None,0
+hunny,Sunday,Public Holiday,0
+hunny,Monday,None,1
+hunny,Tuesday,None,1
+hunny,Wednesday,None,1
+hunny,Thursday,None,1
+hunny,Friday,None,1
+hunny,Saturday,None,0
+hunny,Sunday,Public Holiday,0
+hunny,Monday,None,1
+ishan,Wednesday,None,1
+ishan,Thursday,None,1
+ishan,Friday,None,1
+ishan,Saturday,None,0
+ishan,Sunday,Public Holiday,0
+ishan,Monday,None,1
+ishan,Tuesday,None,1
+ishan,Wednesday,None,1
+ishan,Thursday,None,1
+ishan,Friday,None,1
+ishan,Saturday,None,0
+ishan,Sunday,Public Holiday,0
+ishan,Monday,None,1
+ishan,Tuesday,None,1
+ishan,Wednesday,None,1
+ishan,Thursday,None,1
+ishan,Friday,None,1
+ishan,Saturday,None,0
+ishan,Sunday,Public Holiday,0
+ishan,Monday,None,1
+ishan,Tuesday,Health Issues,0
+ishan,Wednesday,None,1
+ishan,Thursday,None,1
+ishan,Friday,Weekend,1
+ishan,Saturday,None,0
+ishan,Sunday,Public Holiday,0
+ishan,Monday,None,1
+ishan,Tuesday,None,1
+ishan,Wednesday,None,1
+ishan,Thursday,None,1
+ishan,Friday,None,1
+ishan,Saturday,None,0
+ishan,Sunday,Public Holiday,0
+ishan,Monday,Health Issues,0
+ishan,Tuesday,None,1
+ishan,Wednesday,None,1
+ishan,Thursday,Health Issues,0
+ishan,Friday,None,1
+ishan,Saturday,None,0
+ishan,Sunday,Public Holiday,0
+ishan,Monday,None,1
+ishan,Tuesday,None,1
+ishan,Wednesday,None,1
+ishan,Thursday,None,1
+ishan,Friday,None,1
+ishan,Saturday,None,0
+ishan,Sunday,Public Holiday,0
+ishan,Monday,None,1
+ishan,Tuesday,None,1
+ishan,Wednesday,None,1
+ishan,Thursday,Weather,1
+ishan,Friday,None,1
+ishan,Saturday,None,0
+ishan,Sunday,Public Holiday,0
+ishan,Monday,None,1
+ishan,Tuesday,None,1
+ishan,Wednesday,None,1
+ishan,Thursday,None,1
+ishan,Friday,None,1
+ishan,Saturday,None,0
+ishan,Sunday,Public Holiday,0
+ishan,Monday,None,1
+sachin,Wednesday,None,1
+sachin,Thursday,None,1
+sachin,Friday,None,1
+sachin,Saturday,None,0
+sachin,Sunday,Public Holiday,0
+sachin,Monday,None,1
+sachin,Tuesday,None,1
+sachin,Wednesday,None,1
+sachin,Thursday,DOB,1
+sachin,Friday,None,1
+sachin,Saturday,None,0
+sachin,Sunday,Public Holiday,0
+sachin,Monday,None,1
+sachin,Tuesday,None,1
+sachin,Wednesday,None,1
+sachin,Thursday,None,1
+sachin,Friday,None,1
+sachin,Saturday,None,0
+sachin,Sunday,Public Holiday,0
+sachin,Monday,None,1
+sachin,Tuesday,Health Issues,0
+sachin,Wednesday,None,1
+sachin,Thursday,None,1
+sachin,Friday,Weekend,1
+sachin,Saturday,None,0
+sachin,Sunday,Public Holiday,0
+sachin,Monday,None,1
+sachin,Tuesday,None,1
+sachin,Wednesday,None,1
+sachin,Thursday,None,1
+sachin,Friday,None,1
+sachin,Saturday,None,0
+sachin,Sunday,Public Holiday,0
+sachin,Monday,Health Issues,0
+sachin,Tuesday,None,1
+sachin,Wednesday,None,1
+sachin,Thursday,Health Issues,0
+sachin,Friday,None,1
+sachin,Saturday,None,0
+sachin,Sunday,Public Holiday,0
+sachin,Monday,None,1
+sachin,Tuesday,None,1
+sachin,Wednesday,None,1
+sachin,Thursday,None,1
+sachin,Friday,None,1
+sachin,Saturday,None,0
+sachin,Sunday,Public Holiday,0
+sachin,Monday,None,1
+sachin,Tuesday,None,1
+sachin,Wednesday,None,1
+sachin,Thursday,Weather,1
+sachin,Friday,None,1
+sachin,Saturday,None,0
+sachin,Sunday,Public Holiday,0
+sachin,Monday,None,1
+sachin,Tuesday,None,1
+sachin,Wednesday,None,1
+sachin,Thursday,None,1
+sachin,Friday,None,1
+sachin,Saturday,None,0
+sachin,Sunday,Public Holiday,0
+sachin,Monday,None,1
+rohan,Wednesday,None,1
+rohan,Thursday,None,1
+rohan,Friday,None,1
+rohan,Saturday,None,0
+rohan,Sunday,Public Holiday,0
+rohan,Monday,None,1
+rohan,Tuesday,None,1
+rohan,Wednesday,None,1
+rohan,Thursday,None,1
+rohan,Friday,None,1
+rohan,Saturday,None,0
+rohan,Sunday,Public Holiday,0
+rohan,Monday,None,1
+rohan,Tuesday,None,1
+rohan,Wednesday,None,1
+rohan,Thursday,None,1
+rohan,Friday,None,1
+rohan,Saturday,None,0
+rohan,Sunday,Public Holiday,0
+rohan,Monday,None,1
+rohan,Tuesday,Health Issues,0
+rohan,Wednesday,None,1
+rohan,Thursday,None,1
+rohan,Friday,Weekend,1
+rohan,Saturday,None,0
+rohan,Sunday,Public Holiday,0
+rohan,Monday,None,1
+rohan,Tuesday,None,1
+rohan,Wednesday,None,1
+rohan,Thursday,None,1
+rohan,Friday,None,1
+rohan,Saturday,None,0
+rohan,Sunday,Public Holiday,0
+rohan,Monday,Health Issues,0
+rohan,Tuesday,None,1
+rohan,Wednesday,None,1
+rohan,Thursday,Health Issues,1
+rohan,Friday,None,1
+rohan,Saturday,None,0
+rohan,Sunday,Public Holiday,0
+rohan,Monday,None,1
+rohan,Tuesday,None,1
+rohan,Wednesday,None,1
+rohan,Thursday,None,1
+rohan,Friday,None,1
+rohan,Saturday,None,0
+rohan,Sunday,Public Holiday,0
+rohan,Monday,None,1
+rohan,Tuesday,None,1
+rohan,Wednesday,None,1
+rohan,Thursday,Weather,1
+rohan,Friday,None,1
+rohan,Saturday,None,0
+rohan,Sunday,Public Holiday,0
+rohan,Monday,None,1
+rohan,Tuesday,None,1
+rohan,Wednesday,None,1
+rohan,Thursday,None,1
+rohan,Friday,None,1
+rohan,Saturday,None,0
+rohan,Sunday,Public Holiday,0
+rohan,Monday,None,1
+rohit,Wednesday,None,1
+rohit,Thursday,None,1
+rohit,Friday,None,1
+rohit,Saturday,None,0
+rohit,Sunday,Public Holiday,0
+rohit,Monday,None,1
+rohit,Tuesday,None,1
+rohit,Wednesday,None,1
+rohit,Thursday,None,1
+rohit,Friday,None,1
+rohit,Saturday,None,0
+rohit,Sunday,Public Holiday,0
+rohit,Monday,None,1
+rohit,Tuesday,None,1
+rohit,Wednesday,None,1
+rohit,Thursday,None,1
+rohit,Friday,None,1
+rohit,Saturday,None,0
+rohit,Sunday,Public Holiday,0
+rohit,Monday,None,1
+rohit,Tuesday,Health Issues,0
+rohit,Wednesday,None,1
+rohit,Thursday,None,1
+rohit,Friday,Weekend,1
+rohit,Saturday,None,0
+rohit,Sunday,Public Holiday,0
+rohit,Monday,None,1
+rohit,Tuesday,None,1
+rohit,Wednesday,None,1
+rohit,Thursday,None,1
+rohit,Friday,None,1
+rohit,Saturday,None,0
+rohit,Sunday,Public Holiday,0
+rohit,Monday,Health Issues,0
+rohit,Tuesday,None,1
+rohit,Wednesday,None,1
+rohit,Thursday,Health Issues,0
+rohit,Friday,None,1
+rohit,Saturday,None,0
+rohit,Sunday,None,0
+rohit,Monday,None,1
+rohit,Tuesday,None,1
+rohit,Wednesday,None,1
+rohit,Thursday,None,1
+rohit,Friday,None,1
+rohit,Saturday,None,0
+rohit,Sunday,Public Holiday,0
+rohit,Monday,None,1
+rohit,Tuesday,None,1
+rohit,Wednesday,None,1
+rohit,Thursday,Weather,1
+rohit,Friday,None,1
+rohit,Saturday,None,0
+rohit,Sunday,Public Holiday,0
+rohit,Monday,None,1
+rohit,Tuesday,None,1
+rohit,Wednesday,None,1
+rohit,Thursday,None,1
+rohit,Friday,None,1
+rohit,Saturday,None,0
+rohit,Sunday,Public Holiday,0
+rohit,Monday,None,1
+jatin,Wednesday,None,1
+jatin,Thursday,None,1
+jatin,Friday,None,1
+jatin,Saturday,None,0
+jatin,Sunday,Public Holiday,0
+jatin,Monday,None,1
+jatin,Tuesday,None,1
+jatin,Wednesday,None,1
+jatin,Thursday,None,1
+jatin,Friday,None,1
+jatin,Saturday,None,0
+jatin,Sunday,Public Holiday,0
+jatin,Monday,None,1
+jatin,Tuesday,None,1
+jatin,Wednesday,None,1
+jatin,Thursday,None,1
+jatin,Friday,None,1
+jatin,Saturday,None,0
+jatin,Sunday,Public Holiday,0
+jatin,Monday,None,1
+jatin,Tuesday,Health Issues,0
+jatin,Wednesday,None,1
+jatin,Thursday,None,1
+jatin,Friday,Weekend,1
+jatin,Saturday,None,0
+jatin,Sunday,Public Holiday,0
+jatin,Monday,None,1
+jatin,Tuesday,None,1
+jatin,Wednesday,None,1
+jatin,Thursday,None,1
+jatin,Friday,None,1
+jatin,Saturday,None,0
+jatin,Sunday,Public Holiday,0
+jatin,Monday,Health Issues,0
+jatin,Tuesday,None,1
+jatin,Wednesday,None,1
+jatin,Thursday,Health Issues,0
+jatin,Friday,None,1
+jatin,Saturday,None,0
+jatin,Sunday,Public Holiday,0
+jatin,Monday,None,1
+jatin,Tuesday,None,1
+jatin,Wednesday,None,1
+jatin,Thursday,None,1
+jatin,Friday,None,1
+jatin,Saturday,None,0
+jatin,Sunday,Public Holiday,0
+jatin,Monday,None,1
+jatin,Tuesday,None,1
+jatin,Wednesday,None,1
+jatin,Thursday,Weather,1
+jatin,Friday,None,1
+jatin,Saturday,None,0
+jatin,Sunday,Public Holiday,0
+jatin,Monday,None,1
+jatin,Tuesday,None,1
+jatin,Wednesday,None,1
+jatin,Thursday,None,1
+jatin,Friday,None,1
+jatin,Saturday,None,0
+jatin,Sunday,Public Holiday,0
+jatin,Monday,None,1
+utkarsh,Wednesday,None,1
+utkarsh,Thursday,None,1
+utkarsh,Friday,None,1
+utkarsh,Saturday,None,0
+utkarsh,Sunday,Public Holiday,0
+utkarsh,Monday,None,1
+utkarsh,Tuesday,None,1
+utkarsh,Wednesday,None,1
+utkarsh,Thursday,None,1
+utkarsh,Friday,None,1
+utkarsh,Saturday,None,0
+utkarsh,Sunday,Public Holiday,0
+utkarsh,Monday,None,1
+utkarsh,Tuesday,None,1
+utkarsh,Wednesday,None,1
+utkarsh,Thursday,None,1
+utkarsh,Friday,None,1
+utkarsh,Saturday,None,0
+utkarsh,Sunday,Public Holiday,0
+utkarsh,Monday,None,1
+utkarsh,Tuesday,None,1
+utkarsh,Wednesday,None,1
+utkarsh,Thursday,None,1
+utkarsh,Friday,Weekend,1
+utkarsh,Saturday,None,0
+utkarsh,Sunday,Public Holiday,0
+utkarsh,Monday,None,1
+utkarsh,Tuesday,None,1
+utkarsh,Wednesday,None,1
+utkarsh,Thursday,None,1
+utkarsh,Friday,None,1
+utkarsh,Saturday,None,0
+utkarsh,Sunday,Public Holiday,0
+utkarsh,Monday,Health Issues,0
+utkarsh,Tuesday,None,1
+utkarsh,Wednesday,None,1
+utkarsh,Thursday,Health Issues,0
+utkarsh,Friday,None,1
+utkarsh,Saturday,None,0
+utkarsh,Sunday,Public Holiday,0
+utkarsh,Monday,None,1
+utkarsh,Tuesday,None,1
+utkarsh,Wednesday,None,1
+utkarsh,Thursday,None,1
+utkarsh,Friday,None,1
+utkarsh,Saturday,None,0
+utkarsh,Sunday,Public Holiday,0
+utkarsh,Monday,None,1
+utkarsh,Tuesday,None,1
+utkarsh,Wednesday,None,1
+utkarsh,Thursday,Weather,1
+utkarsh,Friday,None,1
+utkarsh,Saturday,None,0
+utkarsh,Sunday,Public Holiday,0
+utkarsh,Monday,None,1
+utkarsh,Tuesday,None,1
+utkarsh,Wednesday,None,1
+utkarsh,Thursday,None,1
+utkarsh,Friday,None,1
+utkarsh,Saturday,None,0
+utkarsh,Sunday,Public Holiday,0
+utkarsh,Monday,None,1
+Aman,Wednesday,None,1
+Aman,Thursday,None,1
+Aman,Friday,None,1
+Aman,Saturday,None,0
+Aman,Sunday,Public Holiday,0
+Aman,Monday,None,1
+Aman,Tuesday,None,1
+Aman,Wednesday,None,1
+Aman,Thursday,None,1
+Aman,Friday,None,1
+Aman,Saturday,None,0
+Aman,Sunday,Public Holiday,0
+Aman,Monday,None,1
+Aman,Tuesday,None,1
+Aman,Wednesday,None,1
+Aman,Thursday,None,1
+Aman,Friday,None,1
+Aman,Saturday,None,0
+Aman,Sunday,Public Holiday,0
+Aman,Monday,None,1
+Aman,Tuesday,Health Issues,0
+Aman,Wednesday,None,1
+Aman,Thursday,None,1
+Aman,Friday,Weekend,1
+Aman,Saturday,None,0
+Aman,Sunday,Public Holiday,0
+Aman,Monday,None,1
+Aman,Tuesday,None,1
+Aman,Wednesday,None,1
+Aman,Thursday,None,1
+Aman,Friday,None,1
+Aman,Saturday,None,0
+Aman,Sunday,Public Holiday,0
+Aman,Monday,Health Issues,0
+Aman,Tuesday,None,1
+Aman,Wednesday,None,1
+Aman,Thursday,Health Issues,0
+Aman,Friday,None,1
+Aman,Saturday,None,0
+Aman,Sunday,Public Holiday,0
+Aman,Monday,None,1
+Aman,Tuesday,None,1
+Aman,Wednesday,None,1
+Aman,Thursday,None,1
+Aman,Friday,None,1
+Aman,Saturday,None,0
+Aman,Sunday,Public Holiday,0
+Aman,Monday,None,1
+Aman,Tuesday,None,1
+Aman,Wednesday,None,1
+Aman,Thursday,Weather,1
+Aman,Friday,None,1
+Aman,Saturday,None,0
+Aman,Sunday,Public Holiday,0
+Aman,Monday,None,1
+Aman,Tuesday,None,1
+Aman,Wednesday,None,1
+Aman,Thursday,None,1
+Aman,Friday,None,1
+Aman,Saturday,None,0
+Aman,Sunday,Public Holiday,0
+Aman,Monday,None,1
+Ritik,Wednesday,None,1
+Ritik,Thursday,None,1
+Ritik,Friday,None,1
+Ritik,Saturday,None,0
+Ritik,Sunday,Public Holiday,0
+Ritik,Monday,None,1
+Ritik,Tuesday,None,1
+Ritik,Wednesday,None,1
+Ritik,Thursday,None,1
+Ritik,Friday,None,1
+Ritik,Saturday,None,0
+Ritik,Sunday,Public Holiday,0
+Ritik,Monday,None,1
+Ritik,Tuesday,None,1
+Ritik,Wednesday,None,1
+Ritik,Thursday,None,1
+Ritik,Friday,None,1
+Ritik,Saturday,None,0
+Ritik,Sunday,Public Holiday,0
+Ritik,Monday,None,1
+Ritik,Tuesday,Health Issues,0
+Ritik,Wednesday,None,1
+Ritik,Thursday,None,1
+Ritik,Friday,Weekend,1
+Ritik,Saturday,None,0
+Ritik,Sunday,Public Holiday,0
+Ritik,Monday,None,1
+Ritik,Tuesday,None,1
+Ritik,Wednesday,None,1
+Ritik,Thursday,None,1
+Ritik,Friday,None,1
+Ritik,Saturday,None,0
+Ritik,Sunday,Public Holiday,0
+Ritik,Monday,Health Issues,0
+Ritik,Tuesday,None,1
+Ritik,Wednesday,None,1
+Ritik,Thursday,Health Issues,0
+Ritik,Friday,None,1
+Ritik,Saturday,None,0
+Ritik,Sunday,Public Holiday,0
+Ritik,Monday,None,1
+Ritik,Tuesday,None,1
+Ritik,Wednesday,None,1
+Ritik,Thursday,None,1
+Ritik,Friday,None,1
+Ritik,Saturday,None,0
+Ritik,Sunday,Public Holiday,0
+Ritik,Monday,None,1
+Ritik,Tuesday,None,1
+Ritik,Wednesday,None,1
+Ritik,Thursday,Weather,1
+Ritik,Friday,None,1
+Ritik,Saturday,None,0
+Ritik,Sunday,Public Holiday,0
+Ritik,Monday,None,1
+Ritik,Tuesday,None,1
+Ritik,Wednesday,None,1
+Ritik,Thursday,None,1
+Ritik,Friday,None,1
+Ritik,Saturday,None,0
+Ritik,Sunday,Public Holiday,0
+Ritik,Monday,None,1
+Rohit,Wednesday,None,1
+Rohit,Thursday,None,1
+Rohit,Friday,None,1
+Rohit,Saturday,None,0
+Rohit,Sunday,Public Holiday,0
+Rohit,Monday,None,1
+Rohit,Tuesday,None,1
+Rohit,Wednesday,None,1
+Rohit,Thursday,None,1
+Rohit,Friday,None,1
+Rohit,Saturday,None,0
+Rohit,Sunday,Public Holiday,0
+Rohit,Monday,None,1
+Rohit,Tuesday,None,1
+Rohit,Wednesday,None,1
+Rohit,Thursday,None,1
+Rohit,Friday,None,1
+Rohit,Saturday,None,0
+Rohit,Sunday,Public Holiday,0
+Rohit,Monday,None,1
+Rohit,Tuesday,Health Issues,0
+Rohit,Wednesday,None,1
+Rohit,Thursday,None,1
+Rohit,Friday,Weekend,1
+Rohit,Saturday,None,0
+Rohit,Sunday,Public Holiday,0
+Rohit,Monday,None,1
+Rohit,Tuesday,None,1
+Rohit,Wednesday,None,1
+Rohit,Thursday,None,1
+Rohit,Friday,None,1
+Rohit,Saturday,None,0
+Rohit,Sunday,Public Holiday,0
+Rohit,Monday,Health Issues,0
+Rohit,Tuesday,None,1
+Rohit,Wednesday,None,1
+Rohit,Thursday,Health Issues,0
+Rohit,Friday,None,1
+Rohit,Saturday,None,0
+Rohit,Sunday,Public Holiday,0
+Rohit,Monday,None,1
+Rohit,Tuesday,None,1
+Rohit,Wednesday,None,1
+Rohit,Thursday,None,1
+Rohit,Friday,None,1
+Rohit,Saturday,None,0
+Rohit,Sunday,Public Holiday,0
+Rohit,Monday,None,1
+Rohit,Tuesday,None,1
+Rohit,Wednesday,None,1
+Rohit,Thursday,Weather,1
+Rohit,Friday,None,1
+Rohit,Saturday,None,0
+Rohit,Sunday,Public Holiday,0
+Rohit,Monday,None,1
+Rohit,Tuesday,None,1
+Rohit,Wednesday,None,1
+Rohit,Thursday,None,1
+Rohit,Friday,None,1
+Rohit,Saturday,None,0
+Rohit,Sunday,Public Holiday,0
+Rohit,Monday,None,1
+Prena,Wednesday,None,1
+Prena,Thursday,None,1
+Prena,Friday,None,1
+Prena,Saturday,None,0
+Prena,Sunday,Public Holiday,0
+Prena,Monday,None,1
+Prena,Tuesday,None,1
+Prena,Wednesday,None,1
+Prena,Thursday,None,1
+Prena,Friday,None,1
+Prena,Saturday,None,0
+Prena,Sunday,Public Holiday,0
+Prena,Monday,None,1
+Prena,Tuesday,None,1
+Prena,Wednesday,None,1
+Prena,Thursday,None,1
+Prena,Friday,None,1
+Prena,Saturday,None,0
+Prena,Sunday,Public Holiday,0
+Prena,Monday,None,1
+Prena,Tuesday,Health Issues,0
+Prena,Wednesday,None,1
+Prena,Thursday,None,1
+Prena,Friday,Weekend,1
+Prena,Saturday,None,0
+Prena,Sunday,Public Holiday,0
+Prena,Monday,None,1
+Prena,Tuesday,None,1
+Prena,Wednesday,None,1
+Prena,Thursday,None,1
+Prena,Friday,None,1
+Prena,Saturday,None,0
+Prena,Sunday,Public Holiday,0
+Prena,Monday,Health Issues,0
+Prena,Tuesday,None,1
+Prena,Wednesday,None,1
+Prena,Thursday,Health Issues,0
+Prena,Friday,None,1
+Prena,Saturday,None,0
+Prena,Sunday,Public Holiday,0
+Prena,Monday,None,1
+Prena,Tuesday,None,1
+Prena,Wednesday,None,1
+Prena,Thursday,None,1
+Prena,Friday,None,1
+Prena,Saturday,None,0
+Prena,Sunday,Public Holiday,0
+Prena,Monday,None,1
+Prena,Tuesday,DOB,1
+Prena,Wednesday,None,1
+Prena,Thursday,Weather,1
+Prena,Friday,None,1
+Prena,Saturday,None,0
+Prena,Sunday,Public Holiday,0
+Prena,Monday,None,1
+Prena,Tuesday,None,1
+Prena,Wednesday,None,1
+Prena,Thursday,None,1
+Prena,Friday,None,1
+Prena,Saturday,None,0
+Prena,Sunday,Public Holiday,0
+Prena,Monday,None,1
+Tripti,Wednesday,None,1
+Tripti,Thursday,None,1
+Tripti,Friday,None,1
+Tripti,Saturday,None,0
+Tripti,Sunday,Public Holiday,0
+Tripti,Monday,None,1
+Tripti,Tuesday,None,1
+Tripti,Wednesday,None,1
+Tripti,Thursday,None,1
+Tripti,Friday,None,1
+Tripti,Saturday,None,0
+Tripti,Sunday,Public Holiday,0
+Tripti,Monday,None,1
+Tripti,Tuesday,None,1
+Tripti,Wednesday,None,1
+Tripti,Thursday,None,1
+Tripti,Friday,None,1
+Tripti,Saturday,None,0
+Tripti,Sunday,Public Holiday,0
+Tripti,Monday,None,1
+Tripti,Tuesday,Health Issues,0
+Tripti,Wednesday,None,1
+Tripti,Thursday,None,1
+Tripti,Friday,Weekend,1
+Tripti,Saturday,None,0
+Tripti,Sunday,Public Holiday,0
+Tripti,Monday,None,1
+Tripti,Tuesday,None,1
+Tripti,Wednesday,None,1
+Tripti,Thursday,None,1
+Tripti,Friday,None,1
+Tripti,Saturday,None,0
+Tripti,Sunday,Public Holiday,0
+Tripti,Monday,Health Issues,0
+Tripti,Tuesday,None,1
+Tripti,Wednesday,None,1
+Tripti,Thursday,Health Issues,0
+Tripti,Friday,None,1
+Tripti,Saturday,None,0
+Tripti,Sunday,Public Holiday,0
+Tripti,Monday,None,1
+Tripti,Tuesday,None,1
+Tripti,Wednesday,None,1
+Tripti,Thursday,None,1
+Tripti,Friday,None,1
+Tripti,Saturday,None,0
+Tripti,Sunday,Public Holiday,0
+Tripti,Monday,None,1
+Tripti,Tuesday,None,1
+Tripti,Wednesday,None,1
+Tripti,Thursday,Weather,1
+Tripti,Friday,None,1
+Tripti,Saturday,None,0
+Tripti,Sunday,Public Holiday,0
+Tripti,Monday,None,1
+Tripti,Tuesday,None,1
+Tripti,Wednesday,None,1
+Tripti,Thursday,None,1
+Tripti,Friday,None,1
+Tripti,Saturday,None,0
+Tripti,Sunday,Public Holiday,0
+Tripti,Monday,None,1
+Rajvir,Wednesday,None,1
+Rajvir,Thursday,None,1
+Rajvir,Friday,None,1
+Rajvir,Saturday,None,0
+Rajvir,Sunday,Public Holiday,0
+Rajvir,Monday,None,1
+Rajvir,Tuesday,None,1
+Rajvir,Wednesday,None,1
+Rajvir,Thursday,None,1
+Rajvir,Friday,None,1
+Rajvir,Saturday,None,0
+Rajvir,Sunday,Public Holiday,0
+Rajvir,Monday,None,1
+Rajvir,Tuesday,None,1
+Rajvir,Wednesday,None,1
+Rajvir,Thursday,None,1
+Rajvir,Friday,None,1
+Rajvir,Saturday,None,0
+Rajvir,Sunday,Public Holiday,0
+Rajvir,Monday,None,1
+Rajvir,Tuesday,Health Issues,0
+Rajvir,Wednesday,None,1
+Rajvir,Thursday,None,1
+Rajvir,Friday,Weekend,1
+Rajvir,Saturday,None,0
+Rajvir,Sunday,Public Holiday,0
+Rajvir,Monday,None,1
+Rajvir,Tuesday,None,1
+Rajvir,Wednesday,None,1
+Rajvir,Thursday,None,1
+Rajvir,Friday,None,1
+Rajvir,Saturday,None,0
+Rajvir,Sunday,Public Holiday,0
+Rajvir,Monday,Health Issues,0
+Rajvir,Tuesday,None,1
+Rajvir,Wednesday,None,1
+Rajvir,Thursday,Health Issues,0
+Rajvir,Friday,None,1
+Rajvir,Saturday,None,0
+Rajvir,Sunday,Public Holiday,0
+Rajvir,Monday,None,1
+Rajvir,Tuesday,None,1
+Rajvir,Wednesday,None,1
+Rajvir,Thursday,None,1
+Rajvir,Friday,None,1
+Rajvir,Saturday,None,0
+Rajvir,Sunday,Public Holiday,0
+Rajvir,Monday,None,1
+Rajvir,Tuesday,None,1
+Rajvir,Wednesday,None,1
+Rajvir,Thursday,Weather,1
+Rajvir,Friday,None,1
+Rajvir,Saturday,None,0
+Rajvir,Sunday,Public Holiday,0
+Rajvir,Monday,DOB,1
+Rajvir,Tuesday,None,1
+Rajvir,Wednesday,None,1
+Rajvir,Thursday,None,1
+Rajvir,Friday,None,1
+Rajvir,Saturday,None,0
+Rajvir,Sunday,Public Holiday,0
+Rajvir,Monday,None,1
+Ranvir,Wednesday,None,1
+Ranvir,Thursday,None,1
+Ranvir,Friday,None,1
+Ranvir,Saturday,None,0
+Ranvir,Sunday,Public Holiday,0
+Ranvir,Monday,None,1
+Ranvir,Tuesday,None,1
+Ranvir,Wednesday,None,1
+Ranvir,Thursday,None,1
+Ranvir,Friday,None,1
+Ranvir,Saturday,None,0
+Ranvir,Sunday,Public Holiday,0
+Ranvir,Monday,None,1
+Ranvir,Tuesday,None,1
+Ranvir,Wednesday,None,1
+Ranvir,Thursday,None,1
+Ranvir,Friday,None,1
+Ranvir,Saturday,None,0
+Ranvir,Sunday,Public Holiday,0
+Ranvir,Monday,None,1
+Ranvir,Tuesday,Health Issues,0
+Ranvir,Wednesday,None,1
+Ranvir,Thursday,None,1
+Ranvir,Friday,Weekend,1
+Ranvir,Saturday,None,0
+Ranvir,Sunday,Public Holiday,0
+Ranvir,Monday,None,1
+Ranvir,Tuesday,None,1
+Ranvir,Wednesday,None,1
+Ranvir,Thursday,None,1
+Ranvir,Friday,None,1
+Ranvir,Saturday,None,0
+Ranvir,Sunday,Public Holiday,0
+Ranvir,Monday,Health Issues,0
+Ranvir,Tuesday,None,1
+Ranvir,Wednesday,None,1
+Ranvir,Thursday,Health Issues,0
+Ranvir,Friday,None,1
+Ranvir,Saturday,None,0
+Ranvir,Sunday,Public Holiday,0
+Ranvir,Monday,None,1
+Ranvir,Tuesday,None,1
+Ranvir,Wednesday,None,1
+Ranvir,Thursday,None,1
+Ranvir,Friday,None,1
+Ranvir,Saturday,None,0
+Ranvir,Sunday,None,0
+Ranvir,Monday,None,1
+Ranvir,Tuesday,None,1
+Ranvir,Wednesday,None,1
+Ranvir,Thursday,Weather,1
+Ranvir,Friday,None,1
+Ranvir,Saturday,None,0
+Ranvir,Sunday,Public Holiday,0
+Ranvir,Monday,None,1
+Ranvir,Tuesday,None,1
+Ranvir,Wednesday,None,1
+Ranvir,Thursday,None,1
+Ranvir,Friday,None,1
+Ranvir,Saturday,None,0
+Ranvir,Sunday,Public Holiday,0
+Ranvir,Monday,None,1
+Neha,Wednesday,None,1
+Neha,Thursday,None,1
+Neha,Friday,None,1
+Neha,Saturday,None,0
+Neha,Sunday,Public Holiday,0
+Neha,Monday,None,1
+Neha,Tuesday,None,1
+Neha,Wednesday,None,1
+Neha,Thursday,None,1
+Neha,Friday,None,1
+Neha,Saturday,None,0
+Neha,Sunday,Public Holiday,0
+Neha,Monday,None,1
+Neha,Tuesday,None,1
+Neha,Wednesday,None,1
+Neha,Thursday,None,1
+Neha,Friday,None,1
+Neha,Saturday,None,0
+Neha,Sunday,Public Holiday,0
+Neha,Monday,None,1
+Neha,Tuesday,Health Issues,0
+Neha,Wednesday,None,1
+Neha,Thursday,None,1
+Neha,Friday,Weekend,1
+Neha,Saturday,None,0
+Neha,Sunday,Public Holiday,0
+Neha,Monday,None,1
+Neha,Tuesday,None,1
+Neha,Wednesday,None,1
+Neha,Thursday,None,1
+Neha,Friday,None,1
+Neha,Saturday,None,0
+Neha,Sunday,Public Holiday,0
+Neha,Monday,Health Issues,0
+Neha,Tuesday,None,1
+Neha,Wednesday,None,1
+Neha,Thursday,Health Issues,0
+Neha,Friday,None,1
+Neha,Saturday,None,0
+Neha,Sunday,Public Holiday,0
+Neha,Monday,None,1
+Neha,Tuesday,None,1
+Neha,Wednesday,None,1
+Neha,Thursday,None,1
+Neha,Friday,None,1
+Neha,Saturday,None,0
+Neha,Sunday,Public Holiday,0
+Neha,Monday,None,1
+Neha,Tuesday,None,1
+Neha,Wednesday,None,1
+Neha,Thursday,Weather,1
+Neha,Friday,None,1
+Neha,Saturday,None,0
+Neha,Sunday,Public Holiday,0
+Neha,Monday,None,1
+Neha,Tuesday,None,1
+Neha,Wednesday,None,1
+Neha,Thursday,None,1
+Neha,Friday,None,1
+Neha,Saturday,None,0
+Neha,Sunday,Public Holiday,0
+Neha,Monday,None,1
+Pawan,Wednesday,None,1
+Pawan,Thursday,None,1
+Pawan,Friday,None,1
+Pawan,Saturday,None,0
+Pawan,Sunday,Public Holiday,0
+Pawan,Monday,None,1
+Pawan,Tuesday,None,1
+Pawan,Wednesday,None,1
+Pawan,Thursday,None,1
+Pawan,Friday,None,1
+Pawan,Saturday,None,0
+Pawan,Sunday,Public Holiday,0
+Pawan,Monday,None,1
+Pawan,Tuesday,None,1
+Pawan,Wednesday,None,1
+Pawan,Thursday,None,1
+Pawan,Friday,None,1
+Pawan,Saturday,None,0
+Pawan,Sunday,Public Holiday,0
+Pawan,Monday,None,1
+Pawan,Tuesday,Health Issues,0
+Pawan,Wednesday,None,1
+Pawan,Thursday,None,1
+Pawan,Friday,DOB,1
+Pawan,Saturday,None,0
+Pawan,Sunday,Public Holiday,0
+Pawan,Monday,None,1
+Pawan,Tuesday,None,1
+Pawan,Wednesday,None,1
+Pawan,Thursday,None,1
+Pawan,Friday,None,1
+Pawan,Saturday,None,0
+Pawan,Sunday,Public Holiday,0
+Pawan,Monday,Health Issues,0
+Pawan,Tuesday,None,1
+Pawan,Wednesday,None,1
+Pawan,Thursday,Health Issues,0
+Pawan,Friday,None,1
+Pawan,Saturday,None,0
+Pawan,Sunday,Public Holiday,0
+Pawan,Monday,None,1
+Pawan,Tuesday,None,1
+Pawan,Wednesday,None,1
+Pawan,Thursday,None,1
+Pawan,Friday,None,1
+Pawan,Saturday,None,0
+Pawan,Sunday,Public Holiday,0
+Pawan,Monday,None,1
+Pawan,Tuesday,None,1
+Pawan,Wednesday,None,1
+Pawan,Thursday,Weather,1
+Pawan,Friday,None,1
+Pawan,Saturday,None,0
+Pawan,Sunday,Public Holiday,0
+Pawan,Monday,None,1
+Pawan,Tuesday,None,1
+Pawan,Wednesday,None,1
+Pawan,Thursday,None,1
+Pawan,Friday,None,0
+Pawan,Saturday,None,0
+Pawan,Sunday,Public Holiday,0
+Pawan,Monday,None,1
+Kajal,Wednesday,None,1
+Kajal,Thursday,None,1
+Kajal,Friday,None,1
+Kajal,Saturday,None,0
+Kajal,Sunday,Public Holiday,0
+Kajal,Monday,None,0
+Kajal,Tuesday,None,1
+Kajal,Wednesday,None,1
+Kajal,Thursday,None,1
+Kajal,Friday,None,1
+Kajal,Saturday,None,1
+Kajal,Sunday,Public Holiday,0
+Kajal,Monday,None,0
+Kajal,Tuesday,None,1
+Kajal,Wednesday,None,1
+Kajal,Thursday,Weather,0
+Kajal,Friday,Weather,0
+Kajal,Saturday,None,0
+Kajal,Sunday,Public Holiday,0
+Kajal,Monday,None,1
+Kajal,Tuesday,None,1
+Kajal,Wednesday,None,1
+Kajal,Thursday,None,1
+Kajal,Friday,None,1
+Kajal,Saturday,None,1
+Kajal,Sunday,Public Holiday,0
+Kajal,Monday,None,0
+Kajal,Tuesday,Health Issues,0
+Kajal,Wednesday,None,1
+Kajal,Thursday,None,1
+Kajal,Friday,None,1
+Kajal,Saturday,None,0
+Kajal,Sunday,Public Holiday,0
+Kajal,Monday,None,1
+Kajal,Tuesday,None,1
+Kajal,Wednesday,None,1
+Kajal,Thursday,None,1
+Kajal,Friday,None,1
+Kajal,Saturday,None,0
+Kajal,Sunday,Public Holiday,0
+Kajal,Monday,None,1
+Kajal,Tuesday,None,1
+Kajal,Wednesday,None,1
+Kajal,Thursday,None,1
+Kajal,Friday,None,1
+Kajal,Saturday,None,0
+Kajal,Sunday,Public Holiday,0
+Kajal,Monday,None,1
+Kajal,Tuesday,None,1
+Kajal,Wednesday,None,1
+Kajal,Thursday,None,1
+Kajal,Friday,Weekend,0
+Kajal,Saturday,None,0
+Kajal,Sunday,Public Holiday,0
+Kajal,Monday,Health Issues,0
+Kajal,Tuesday,None,1
+Kajal,Wednesday,None,1
+Kajal,Thursday,None,1
+Kajal,Friday,None,1
+Kajal,Saturday,None,1
+Kajal,Sunday,Public Holiday,0
+Kajal,Monday,None,0
+Rohit,Wednesday,None,1
+Rohit,Thursday,None,1
+Rohit,Friday,None,1
+Rohit,Saturday,None,0
+Rohit,Sunday,Public Holiday,0
+Rohit,Monday,None,1
+Rohit,Tuesday,None,1
+Rohit,Wednesday,None,1
+Rohit,Thursday,None,1
+Rohit,Friday,None,1
+Rohit,Saturday,None,1
+Rohit,Sunday,Public Holiday,0
+Rohit,Monday,None,0
+Rohit,Tuesday,None,1
+Rohit,Wednesday,None,1
+Rohit,Thursday,None,1
+Rohit,Friday,None,1
+Rohit,Saturday,None,0
+Rohit,Sunday,Public Holiday,0
+Rohit,Monday,Health Issues,0
+Rohit,Tuesday,None,1
+Rohit,Wednesday,None,1
+Rohit,Thursday,None,1
+Rohit,Friday,None,1
+Rohit,Saturday,None,1
+Rohit,Sunday,Public Holiday,0
+Rohit,Monday,None,0
+Rohit,Tuesday,None,1
+Rohit,Wednesday,None,1
+Rohit,Thursday,None,1
+Rohit,Friday,None,1
+Rohit,Saturday,None,0
+Rohit,Sunday,Public Holiday,0
+Rohit,Monday,None,1
+Rohit,Tuesday,None,1
+Rohit,Wednesday,None,1
+Rohit,Thursday,None,1
+Rohit,Friday,Weekend,0
+Rohit,Saturday,None,0
+Rohit,Sunday,Public Holiday,0
+Rohit,Monday,None,1
+Rohit,Tuesday,None,1
+Rohit,Wednesday,None,1
+Rohit,Thursday,None,1
+Rohit,Friday,None,1
+Rohit,Saturday,None,0
+Rohit,Sunday,Public Holiday,0
+Rohit,Monday,None,1
+Rohit,Tuesday,None,1
+Rohit,Wednesday,None,1
+Rohit,Thursday,None,1
+Rohit,Friday,None,1
+Rohit,Saturday,None,0
+Rohit,Sunday,Public Holiday,0
+Rohit,Monday,None,1
+Rohit,Tuesday,None,1
+Rohit,Wednesday,None,1
+Rohit,Thursday,None,1
+Rohit,Friday,None,1
+Rohit,Saturday,None,0
+Rohit,Sunday,Public Holiday,0
+Rohit,Monday,None,1
+siddhart,Wednesday,None,1
+siddhart,Thursday,None,1
+siddhart,Friday,None,1
+siddhart,Saturday,None,0
+siddhart,Sunday,Public Holiday,0
+siddhart,Monday,None,1
+siddhart,Tuesday,None,1
+siddhart,Wednesday,None,1
+siddhart,Thursday,None,1
+siddhart,Friday,None,1
+siddhart,Saturday,None,0
+siddhart,Sunday,Public Holiday,0
+siddhart,Monday,Health Issues,0
+siddhart,Tuesday,Health Issues,0
+siddhart,Wednesday,None,1
+siddhart,Thursday,None,1
+siddhart,Friday,None,1
+siddhart,Saturday,None,0
+siddhart,Sunday,Public Holiday,0
+siddhart,Monday,None,1
+siddhart,Tuesday,None,1
+siddhart,Wednesday,None,1
+siddhart,Thursday,None,1
+siddhart,Friday,None,1
+siddhart,Saturday,None,0
+siddhart,Sunday,Public Holiday,0
+siddhart,Monday,None,1
+siddhart,Tuesday,None,1
+siddhart,Wednesday,None,1
+siddhart,Thursday,None,1
+siddhart,Friday,Weekend,0
+siddhart,Saturday,None,0
+siddhart,Sunday,Public Holiday,0
+siddhart,Monday,None,1
+siddhart,Tuesday,None,1
+siddhart,Wednesday,None,1
+siddhart,Thursday,DOB,0
+siddhart,Friday,Weekend,0
+siddhart,Saturday,None,0
+siddhart,Sunday,Public Holiday,0
+siddhart,Monday,None,1
+siddhart,Tuesday,None,1
+siddhart,Wednesday,None,1
+siddhart,Thursday,None,1
+siddhart,Friday,None,1
+siddhart,Saturday,None,0
+siddhart,Sunday,Public Holiday,0
+siddhart,Monday,None,1
+siddhart,Tuesday,None,1
+siddhart,Wednesday,None,1
+siddhart,Thursday,None,1
+siddhart,Friday,None,1
+siddhart,Saturday,None,0
+siddhart,Sunday,Public Holiday,0
+siddhart,Monday,None,1
+siddhart,Tuesday,None,1
+siddhart,Wednesday,Weather,0
+siddhart,Thursday,None,1
+siddhart,Friday,None,1
+siddhart,Saturday,None,0
+siddhart,Sunday,Public Holiday,0
+siddhart,Monday,None,1
+Anjali,Wednesday,None,1
+Anjali,Thursday,None,1
+Anjali,Friday,None,1
+Anjali,Saturday,None,0
+Anjali,Sunday,Public Holiday,0
+Anjali,Monday,None,1
+Anjali,Tuesday,None,1
+Anjali,Wednesday,None,1
+Anjali,Thursday,None,1
+Anjali,Friday,None,0
+Anjali,Saturday,None,0
+Anjali,Sunday,Public Holiday,0
+Anjali,Monday,DOB,1
+Anjali,Tuesday,None,1
+Anjali,Wednesday,None,1
+Anjali,Thursday,None,1
+Anjali,Friday,None,1
+Anjali,Saturday,None,0
+Anjali,Sunday,Public Holiday,0
+Anjali,Monday,None,1
+Anjali,Tuesday,None,1
+Anjali,Wednesday,None,0
+Anjali,Thursday,None,0
+Anjali,Friday,None,1
+Anjali,Saturday,None,0
+Anjali,Sunday,Public Holiday,0
+Anjali,Monday,None,1
+Anjali,Tuesday,None,1
+Anjali,Wednesday,None,1
+Anjali,Thursday,None,1
+Anjali,Friday,None,1
+Anjali,Saturday,None,0
+Anjali,Sunday,Public Holiday,0
+Anjali,Monday,None,1
+Anjali,Tuesday,None,1
+Anjali,Wednesday,None,1
+Anjali,Thursday,None,1
+Anjali,Friday,None,1
+Anjali,Saturday,None,0
+Anjali,Sunday,Public Holiday,0
+Anjali,Monday,None,1
+Anjali,Tuesday,None,1
+Anjali,Wednesday,None,1
+Anjali,Thursday,None,1
+Anjali,Friday,None,1
+Anjali,Saturday,None,0
+Anjali,Sunday,Public Holiday,0
+Anjali,Monday,Health Issues,0
+Anjali,Tuesday,Health Issues,0
+Anjali,Wednesday,None,1
+Anjali,Thursday,None,1
+Anjali,Friday,None,1
+Anjali,Saturday,None,0
+Anjali,Sunday,Public Holiday,0
+Anjali,Monday,None,1
+Anjali,Tuesday,None,1
+Anjali,Wednesday,None,1
+Anjali,Thursday,None,1
+Anjali,Friday,None,1
+Anjali,Saturday,None,0
+Anjali,Sunday,Public Holiday,0
+Anjali,Monday,None,1
+Ayushi,Wednesday,None,1
+Ayushi,Thursday,None,1
+Ayushi,Friday,None,1
+Ayushi,Saturday,Weather,0
+Ayushi,Sunday,Public Holiday,0
+Ayushi,Monday,None,0
+Ayushi,Tuesday,None,1
+Ayushi,Wednesday,None,1
+Ayushi,Thursday,None,1
+Ayushi,Friday,None,1
+Ayushi,Saturday,None,0
+Ayushi,Sunday,Public Holiday,0
+Ayushi,Monday,None,1
+Ayushi,Tuesday,None,1
+Ayushi,Wednesday,None,1
+Ayushi,Thursday,None,1
+Ayushi,Friday,None,1
+Ayushi,Saturday,None,0
+Ayushi,Sunday,Public Holiday,0
+Ayushi,Monday,None,1
+Ayushi,Tuesday,None,1
+Ayushi,Wednesday,None,1
+Ayushi,Thursday,None,1
+Ayushi,Friday,None,1
+Ayushi,Saturday,None,0
+Ayushi,Sunday,Public Holiday,0
+Ayushi,Monday,None,1
+Ayushi,Tuesday,None,1
+Ayushi,Wednesday,None,1
+Ayushi,Thursday,None,1
+Ayushi,Friday,None,1
+Ayushi,Saturday,None,0
+Ayushi,Sunday,Public Holiday,0
+Ayushi,Monday,None,1
+Ayushi,Tuesday,None,1
+Ayushi,Wednesday,None,1
+Ayushi,Thursday,None,1
+Ayushi,Friday,None,1
+Ayushi,Saturday,None,0
+Ayushi,Sunday,Public Holiday,0
+Ayushi,Monday,None,1
+Ayushi,Tuesday,None,1
+Ayushi,Wednesday,None,1
+Ayushi,Thursday,None,1
+Ayushi,Friday,None,1
+Ayushi,Saturday,None,0
+Ayushi,Sunday,Public Holiday,0
+Ayushi,Monday,Weekend,0
+Ayushi,Tuesday,None,1
+Ayushi,Wednesday,None,1
+Ayushi,Thursday,None,1
+Ayushi,Friday,None,1
+Ayushi,Saturday,None,0
+Ayushi,Sunday,Public Holiday,0
+Ayushi,Monday,None,1
+Ayushi,Tuesday,None,1
+Ayushi,Wednesday,None,1
+Ayushi,Thursday,None,1
+Ayushi,Friday,None,1
+Ayushi,Saturday,None,0
+Ayushi,Sunday,Public Holiday,0
+Ayushi,Monday,None,1
+smitha,Wednesday,None,1
+smitha,Thursday,None,1
+smitha,Friday,None,1
+smitha,Saturday,None,0
+smitha,Sunday,Public Holiday,0
+smitha,Monday,None,1
+smitha,Tuesday,None,1
+smitha,Wednesday,None,1
+smitha,Thursday,None,1
+smitha,Friday,Weekend,0
+smitha,Saturday,None,0
+smitha,Sunday,Public Holiday,0
+smitha,Monday,None,1
+smitha,Tuesday,None,1
+smitha,Wednesday,None,1
+smitha,Thursday,None,1
+smitha,Friday,None,1
+smitha,Saturday,None,0
+smitha,Sunday,Public Holiday,0
+smitha,Monday,None,1
+smitha,Tuesday,None,1
+smitha,Wednesday,None,1
+smitha,Thursday,None,1
+smitha,Friday,None,1
+smitha,Saturday,None,0
+smitha,Sunday,Public Holiday,0
+smitha,Monday,None,1
+smitha,Tuesday,None,1
+smitha,Wednesday,None,1
+smitha,Thursday,None,1
+smitha,Friday,DOB,0
+smitha,Saturday,None,0
+smitha,Sunday,Public Holiday,0
+smitha,Monday,None,0
+smitha,Tuesday,None,1
+smitha,Wednesday,None,1
+smitha,Thursday,None,1
+smitha,Friday,None,1
+smitha,Saturday,None,0
+smitha,Sunday,Public Holiday,0
+smitha,Monday,Weekend,0
+smitha,Tuesday,None,1
+smitha,Wednesday,None,1
+smitha,Thursday,None,1
+smitha,Friday,None,1
+smitha,Saturday,None,0
+smitha,Sunday,Public Holiday,0
+smitha,Monday,None,1
+smitha,Tuesday,None,1
+smitha,Wednesday,None,1
+smitha,Thursday,None,1
+smitha,Friday,Health Issues,0
+smitha,Saturday,None,0
+smitha,Sunday,Public Holiday,0
+smitha,Monday,None,1
+smitha,Tuesday,None,1
+smitha,Wednesday,None,1
+smitha,Thursday,None,1
+smitha,Friday,None,1
+smitha,Saturday,None,0
+smitha,Sunday,Public Holiday,0
+smitha,Monday,None,1
+zeba,Wednesday,None,1
+zeba,Thursday,None,1
+zeba,Friday,None,1
+zeba,Saturday,None,0
+zeba,Sunday,Public Holiday,0
+zeba,Monday,None,1
+zeba,Tuesday,None,1
+zeba,Wednesday,None,1
+zeba,Thursday,None,1
+zeba,Friday,None,1
+zeba,Saturday,None,0
+zeba,Sunday,Public Holiday,0
+zeba,Monday,None,1
+zeba,Tuesday,None,1
+zeba,Wednesday,None,1
+zeba,Thursday,None,1
+zeba,Friday,Health Issues,0
+zeba,Saturday,None,0
+zeba,Sunday,Public Holiday,0
+zeba,Monday,None,1
+zeba,Tuesday,None,1
+zeba,Wednesday,None,1
+zeba,Thursday,None,1
+zeba,Friday,None,1
+zeba,Saturday,None,0
+zeba,Sunday,Public Holiday,0
+zeba,Monday,None,1
+zeba,Tuesday,None,1
+zeba,Wednesday,None,1
+zeba,Thursday,None,1
+zeba,Friday,None,1
+zeba,Saturday,None,0
+zeba,Sunday,Public Holiday,0
+zeba,Monday,None,1
+zeba,Tuesday,None,1
+zeba,Wednesday,None,1
+zeba,Thursday,None,1
+zeba,Friday,None,0
+zeba,Saturday,None,0
+zeba,Sunday,Public Holiday,0
+zeba,Monday,None,1
+zeba,Tuesday,None,1
+zeba,Wednesday,None,1
+zeba,Thursday,None,1
+zeba,Friday,None,1
+zeba,Saturday,None,0
+zeba,Sunday,Public Holiday,0
+zeba,Monday,DOB,0
+zeba,Tuesday,None,1
+zeba,Wednesday,None,1
+zeba,Thursday,None,1
+zeba,Friday,None,1
+zeba,Saturday,None,0
+zeba,Sunday,Public Holiday,0
+zeba,Monday,None,1
+zeba,Tuesday,None,1
+zeba,Wednesday,None,1
+zeba,Thursday,None,1
+zeba,Friday,Health Issues,0
+zeba,Saturday,None,0
+zeba,Sunday,Public Holiday,0
+zeba,Monday,None,1
+Niharika,Wednesday,None,1
+Niharika,Thursday,None,1
+Niharika,Friday,None,1
+Niharika,Saturday,None,0
+Niharika,Sunday,Public Holiday,0
+Niharika,Monday,None,1
+Niharika,Tuesday,None,1
+Niharika,Wednesday,None,1
+Niharika,Thursday,None,1
+Niharika,Friday,Weather,0
+Niharika,Saturday,None,0
+Niharika,Sunday,Public Holiday,0
+Niharika,Monday,None,1
+Niharika,Tuesday,None,1
+Niharika,Wednesday,None,1
+Niharika,Thursday,None,1
+Niharika,Friday,Weekend,0
+Niharika,Saturday,None,0
+Niharika,Sunday,Public Holiday,0
+Niharika,Monday,None,1
+Niharika,Tuesday,None,1
+Niharika,Wednesday,None,1
+Niharika,Thursday,None,1
+Niharika,Friday,None,1
+Niharika,Saturday,None,0
+Niharika,Sunday,Public Holiday,0
+Niharika,Monday,None,1
+Niharika,Tuesday,None,1
+Niharika,Wednesday,None,1
+Niharika,Thursday,None,1
+Niharika,Friday,None,1
+Niharika,Saturday,None,0
+Niharika,Sunday,Public Holiday,0
+Niharika,Monday,None,1
+Niharika,Tuesday,None,1
+Niharika,Wednesday,None,1
+Niharika,Thursday,None,1
+Niharika,Friday,Health Issues,0
+Niharika,Saturday,None,0
+Niharika,Sunday,Public Holiday,0
+Niharika,Monday,None,1
+Niharika,Tuesday,None,1
+Niharika,Wednesday,None,1
+Niharika,Thursday,None,1
+Niharika,Friday,None,1
+Niharika,Saturday,None,0
+Niharika,Sunday,Public Holiday,0
+Niharika,Monday,None,1
+Niharika,Tuesday,None,1
+Niharika,Wednesday,None,1
+Niharika,Thursday,None,1
+Niharika,Friday,None,1
+Niharika,Saturday,None,0
+Niharika,Sunday,Public Holiday,0
+Niharika,Monday,None,1
+Niharika,Tuesday,None,1
+Niharika,Wednesday,None,1
+Niharika,Thursday,None,1
+Niharika,Friday,None,1
+Niharika,Saturday,None,0
+Niharika,Sunday,Public Holiday,0
+Niharika,Monday,None,1
+Arjun,Wednesday,None,1
+Arjun,Thursday,None,1
+Arjun,Friday,None,1
+Arjun,Saturday,None,0
+Arjun,Sunday,Public Holiday,0
+Arjun,Monday,None,1
+Arjun,Tuesday,None,1
+Arjun,Wednesday,None,1
+Arjun,Thursday,None,1
+Arjun,Friday,None,1
+Arjun,Saturday,None,0
+Arjun,Sunday,Public Holiday,0
+Arjun,Monday,None,1
+Arjun,Tuesday,None,1
+Arjun,Wednesday,None,1
+Arjun,Thursday,None,1
+Arjun,Friday,Weekend,0
+Arjun,Saturday,None,0
+Arjun,Sunday,Public Holiday,0
+Arjun,Monday,None,1
+Arjun,Tuesday,None,1
+Arjun,Wednesday,None,1
+Arjun,Thursday,None,1
+Arjun,Friday,None,1
+Arjun,Saturday,None,0
+Arjun,Sunday,Public Holiday,0
+Arjun,Monday,None,1
+Arjun,Tuesday,None,1
+Arjun,Wednesday,None,1
+Arjun,Thursday,None,1
+Arjun,Friday,None,1
+Arjun,Saturday,None,0
+Arjun,Sunday,Public Holiday,0
+Arjun,Monday,None,1
+Arjun,Tuesday,None,1
+Arjun,Wednesday,DOB,0
+Arjun,Thursday,None,1
+Arjun,Friday,Weekend,0
+Arjun,Saturday,None,0
+Arjun,Sunday,Public Holiday,0
+Arjun,Monday,None,1
+Arjun,Tuesday,None,1
+Arjun,Wednesday,None,1
+Arjun,Thursday,Health Issues,0
+Arjun,Friday,Health Issues,0
+Arjun,Saturday,None,0
+Arjun,Sunday,Public Holiday,0
+Arjun,Monday,None,1
+Arjun,Tuesday,None,1
+Arjun,Wednesday,None,1
+Arjun,Thursday,None,1
+Arjun,Friday,None,1
+Arjun,Saturday,None,0
+Arjun,Sunday,Public Holiday,0
+Arjun,Monday,None,1
+Arjun,Tuesday,None,1
+Arjun,Wednesday,None,1
+Arjun,Thursday,None,1
+Arjun,Friday,None,1
+Arjun,Saturday,None,0
+Arjun,Sunday,Public Holiday,0
+Arjun,Monday,None,1
+Ajith,Wednesday,None,1
+Ajith,Thursday,None,1
+Ajith,Friday,None,1
+Ajith,Saturday,None,1
+Ajith,Sunday,Public Holiday,1
+Ajith,Monday,None,0
+Ajith,Tuesday,None,0
+Ajith,Wednesday,None,1
+Ajith,Thursday,None,1
+Ajith,Friday,None,1
+Ajith,Saturday,None,1
+Ajith,Sunday,Public Holiday,1
+Ajith,Monday,None,0
+Ajith,Tuesday,None,0
+Ajith,Wednesday,None,1
+Ajith,Thursday,None,1
+Ajith,Friday,None,1
+Ajith,Saturday,None,1
+Ajith,Sunday,Public Holiday,0
+Ajith,Monday,None,0
+Ajith,Tuesday,Weekend,0
+Ajith,Wednesday,None,1
+Ajith,Thursday,None,1
+Ajith,Friday,None,1
+Ajith,Saturday,None,1
+Ajith,Sunday,Public Holiday,0
+Ajith,Monday,Weather,0
+Ajith,Tuesday,Weather,0
+Ajith,Wednesday,None,1
+Ajith,Thursday,None,1
+Ajith,Friday,None,1
+Ajith,Saturday,None,1
+Ajith,Sunday,Public Holiday,1
+Ajith,Monday,None,0
+Ajith,Tuesday,None,0
+Ajith,Wednesday,None,1
+Ajith,Thursday,None,1
+Ajith,Friday,Weather,0
+Ajith,Saturday,None,0
+Ajith,Sunday,Public Holiday,0
+Ajith,Monday,Weather,0
+Ajith,Tuesday,None,1
+Ajith,Wednesday,None,1
+Ajith,Thursday,None,1
+Ajith,Friday,None,1
+Ajith,Saturday,None,1
+Ajith,Sunday,Public Holiday,1
+Ajith,Monday,None,0
+Ajith,Tuesday,None,0
+Ajith,Wednesday,Health Issues,0
+Ajith,Thursday,None,1
+Ajith,Friday,None,1
+Ajith,Saturday,None,1
+Ajith,Sunday,Public Holiday,0
+Ajith,Monday,None,0
+Ajith,Tuesday,None,1
+Ajith,Wednesday,None,1
+Ajith,Thursday,None,1
+Ajith,Friday,None,1
+Ajith,Saturday,None,1
+Ajith,Sunday,Public Holiday,0
+Ajith,Monday,None,0
+Tejaswani,Wednesday,None,1
+Tejaswani,Thursday,None,1
+Tejaswani,Friday,None,1
+Tejaswani,Saturday,None,1
+Tejaswani,Sunday,Public Holiday,1
+Tejaswani,Monday,None,0
+Tejaswani,Tuesday,None,0
+Tejaswani,Wednesday,None,1
+Tejaswani,Thursday,None,1
+Tejaswani,Friday,None,1
+Tejaswani,Saturday,None,0
+Tejaswani,Sunday,Public Holiday,0
+Tejaswani,Monday,Weekend,0
+Tejaswani,Tuesday,Weather,0
+Tejaswani,Wednesday,Weather,0
+Tejaswani,Thursday,None,1
+Tejaswani,Friday,None,1
+Tejaswani,Saturday,None,1
+Tejaswani,Sunday,Public Holiday,1
+Tejaswani,Monday,None,1
+Tejaswani,Tuesday,None,0
+Tejaswani,Wednesday,None,0
+Tejaswani,Thursday,None,1
+Tejaswani,Friday,None,1
+Tejaswani,Saturday,None,1
+Tejaswani,Sunday,Public Holiday,0
+Tejaswani,Monday,None,0
+Tejaswani,Tuesday,None,1
+Tejaswani,Wednesday,None,1
+Tejaswani,Thursday,None,1
+Tejaswani,Friday,None,1
+Tejaswani,Saturday,None,1
+Tejaswani,Sunday,Public Holiday,1
+Tejaswani,Monday,None,0
+Tejaswani,Tuesday,None,0
+Tejaswani,Wednesday,None,1
+Tejaswani,Thursday,None,1
+Tejaswani,Friday,None,1
+Tejaswani,Saturday,None,0
+Tejaswani,Sunday,Public Holiday,0
+Tejaswani,Monday,Weather,0
+Tejaswani,Tuesday,Health Issues,0
+Tejaswani,Wednesday,None,1
+Tejaswani,Thursday,None,1
+Tejaswani,Friday,None,1
+Tejaswani,Saturday,None,0
+Tejaswani,Sunday,Public Holiday,0
+Tejaswani,Monday,Health Issues,0
+Tejaswani,Tuesday,Health Issues,0
+Tejaswani,Wednesday,None,1
+Tejaswani,Thursday,None,1
+Tejaswani,Friday,None,1
+Tejaswani,Saturday,None,0
+Tejaswani,Sunday,Public Holiday,0
+Tejaswani,Monday,None,1
+Tejaswani,Tuesday,None,1
+Tejaswani,Wednesday,None,1
+Tejaswani,Thursday,None,1
+Tejaswani,Friday,None,1
+Tejaswani,Saturday,None,0
+Tejaswani,Sunday,Public Holiday,0
+Tejaswani,Monday,Weather,0
+Nilisha,Wednesday,None,1
+Nilisha,Thursday,None,1
+Nilisha,Friday,None,1
+Nilisha,Saturday,None,0
+Nilisha,Sunday,Public Holiday,0
+Nilisha,Monday,None,1
+Nilisha,Tuesday,None,1
+Nilisha,Wednesday,None,1
+Nilisha,Thursday,None,1
+Nilisha,Friday,None,1
+Nilisha,Saturday,None,0
+Nilisha,Sunday,Public Holiday,0
+Nilisha,Monday,None,1
+Nilisha,Tuesday,None,1
+Nilisha,Wednesday,None,1
+Nilisha,Thursday,None,1
+Nilisha,Friday,None,1
+Nilisha,Saturday,None,0
+Nilisha,Sunday,Public Holiday,0
+Nilisha,Monday,None,1
+Nilisha,Tuesday,None,1
+Nilisha,Wednesday,None,1
+Nilisha,Thursday,None,1
+Nilisha,Friday,Weekend,0
+Nilisha,Saturday,None,0
+Nilisha,Sunday,Public Holiday,0
+Nilisha,Monday,None,1
+Nilisha,Tuesday,None,1
+Nilisha,Wednesday,None,1
+Nilisha,Thursday,None,1
+Nilisha,Friday,None,1
+Nilisha,Saturday,None,0
+Nilisha,Sunday,Public Holiday,0
+Nilisha,Monday,Health Issues,0
+Nilisha,Tuesday,Weather,0
+Nilisha,Wednesday,Health Issues,0
+Nilisha,Thursday,None,1
+Nilisha,Friday,None,1
+Nilisha,Saturday,None,0
+Nilisha,Sunday,Public Holiday,0
+Nilisha,Monday,None,1
+Nilisha,Tuesday,None,1
+Nilisha,Wednesday,None,1
+Nilisha,Thursday,None,1
+Nilisha,Friday,None,1
+Nilisha,Saturday,None,0
+Nilisha,Sunday,Public Holiday,0
+Nilisha,Monday,None,1
+Nilisha,Tuesday,None,1
+Nilisha,Wednesday,None,1
+Nilisha,Thursday,None,1
+Nilisha,Friday,None,1
+Nilisha,Saturday,None,0
+Nilisha,Sunday,Public Holiday,0
+Nilisha,Monday,DOB,0
+Nilisha,Tuesday,None,1
+Nilisha,Wednesday,None,1
+Nilisha,Thursday,None,1
+Nilisha,Friday,Weekend,0
+Nilisha,Saturday,None,0
+Nilisha,Sunday,Public Holiday,0
+Nilisha,Monday,Weekend,0
+Akansha,Wednesday,None,1
+Akansha,Thursday,None,1
+Akansha,Friday,None,1
+Akansha,Saturday,None,0
+Akansha,Sunday,Public Holiday,0
+Akansha,Monday,None,1
+Akansha,Tuesday,None,1
+Akansha,Wednesday,None,1
+Akansha,Thursday,None,1
+Akansha,Friday,None,1
+Akansha,Saturday,None,0
+Akansha,Sunday,Public Holiday,0
+Akansha,Monday,None,1
+Akansha,Tuesday,Weather,0
+Akansha,Wednesday,None,1
+Akansha,Thursday,None,1
+Akansha,Friday,Weather,0
+Akansha,Saturday,None,0
+Akansha,Sunday,Public Holiday,0
+Akansha,Monday,None,1
+Akansha,Tuesday,Health Issues,0
+Akansha,Wednesday,None,1
+Akansha,Thursday,None,1
+Akansha,Friday,None,1
+Akansha,Saturday,None,0
+Akansha,Sunday,Public Holiday,0
+Akansha,Monday,None,1
+Akansha,Tuesday,None,1
+Akansha,Wednesday,None,1
+Akansha,Thursday,None,1
+Akansha,Friday,None,1
+Akansha,Saturday,None,0
+Akansha,Sunday,Public Holiday,0
+Akansha,Monday,Weather,0
+Akansha,Tuesday,None,1
+Akansha,Wednesday,None,1
+Akansha,Thursday,None,1
+Akansha,Friday,None,1
+Akansha,Saturday,None,0
+Akansha,Sunday,Public Holiday,0
+Akansha,Monday,Weekend,0
+Akansha,Tuesday,None,1
+Akansha,Wednesday,None,1
+Akansha,Thursday,Weather,0
+Akansha,Friday,Health Issues,0
+Akansha,Saturday,None,0
+Akansha,Sunday,Public Holiday,0
+Akansha,Monday,None,1
+Akansha,Tuesday,None,1
+Akansha,Wednesday,None,1
+Akansha,Thursday,None,1
+Akansha,Friday,None,1
+Akansha,Saturday,None,0
+Akansha,Sunday,Public Holiday,0
+Akansha,Monday,None,1
+Akansha,Tuesday,None,1
+Akansha,Wednesday,None,1
+Akansha,Thursday,None,1
+Akansha,Friday,None,1
+Akansha,Saturday,None,0
+Akansha,Sunday,Public Holiday,0
+Akansha,Monday,None,1
+Abrajith,Wednesday,None,1
+Abrajith,Thursday,None,1
+Abrajith,Friday,None,1
+Abrajith,Saturday,None,0
+Abrajith,Sunday,Public Holiday,0
+Abrajith,Monday,None,1
+Abrajith,Tuesday,Health Issues,0
+Abrajith,Wednesday,Health Issues,0
+Abrajith,Thursday,Health Issues,0
+Abrajith,Friday,None,1
+Abrajith,Saturday,None,0
+Abrajith,Sunday,Public Holiday,0
+Abrajith,Monday,None,1
+Abrajith,Tuesday,None,1
+Abrajith,Wednesday,None,1
+Abrajith,Thursday,None,1
+Abrajith,Friday,None,1
+Abrajith,Saturday,None,1
+Abrajith,Sunday,Public Holiday,0
+Abrajith,Monday,None,0
+Abrajith,Tuesday,None,1
+Abrajith,Wednesday,None,1
+Abrajith,Thursday,None,1
+Abrajith,Friday,None,1
+Abrajith,Saturday,None,0
+Abrajith,Sunday,Public Holiday,0
+Abrajith,Monday,None,1
+Abrajith,Tuesday,None,1
+Abrajith,Wednesday,None,1
+Abrajith,Thursday,None,1
+Abrajith,Friday,None,1
+Abrajith,Saturday,None,0
+Abrajith,Sunday,Public Holiday,0
+Abrajith,Monday,None,1
+Abrajith,Tuesday,None,1
+Abrajith,Wednesday,None,1
+Abrajith,Thursday,None,1
+Abrajith,Friday,None,1
+Abrajith,Saturday,None,0
+Abrajith,Sunday,Public Holiday,0
+Abrajith,Monday,None,1
+Abrajith,Tuesday,None,1
+Abrajith,Wednesday,None,1
+Abrajith,Thursday,None,1
+Abrajith,Friday,None,1
+Abrajith,Saturday,None,0
+Abrajith,Sunday,Public Holiday,0
+Abrajith,Monday,Weekend,0
+Abrajith,Tuesday,None,1
+Abrajith,Wednesday,None,1
+Abrajith,Thursday,None,1
+Abrajith,Friday,None,1
+Abrajith,Saturday,None,0
+Abrajith,Sunday,Public Holiday,0
+Abrajith,Monday,None,1
+Abrajith,Tuesday,None,1
+Abrajith,Wednesday,None,1
+Abrajith,Thursday,None,1
+Abrajith,Friday,None,1
+Abrajith,Saturday,None,0
+Abrajith,Sunday,Public Holiday,0
+Abrajith,Monday,None,1
+Arun,Wednesday,None,1
+Arun,Thursday,None,1
+Arun,Friday,None,1
+Arun,Saturday,None,0
+Arun,Sunday,Public Holiday,0
+Arun,Monday,Weather,0
+Arun,Tuesday,Weather,0
+Arun,Wednesday,Health Issues,0
+Arun,Thursday,None,1
+Arun,Friday,None,1
+Arun,Saturday,None,0
+Arun,Sunday,Public Holiday,0
+Arun,Monday,None,1
+Arun,Tuesday,None,1
+Arun,Wednesday,None,1
+Arun,Thursday,None,1
+Arun,Friday,None,1
+Arun,Saturday,None,0
+Arun,Sunday,Public Holiday,0
+Arun,Monday,None,1
+Arun,Tuesday,DOB,0
+Arun,Wednesday,None,1
+Arun,Thursday,None,1
+Arun,Friday,None,1
+Arun,Saturday,None,0
+Arun,Sunday,Public Holiday,0
+Arun,Monday,Weekend,0
+Arun,Tuesday,None,1
+Arun,Wednesday,None,1
+Arun,Thursday,None,1
+Arun,Friday,None,1
+Arun,Saturday,None,0
+Arun,Sunday,Public Holiday,0
+Arun,Monday,Weather,0
+Arun,Tuesday,None,1
+Arun,Wednesday,None,1
+Arun,Thursday,None,1
+Arun,Friday,None,1
+Arun,Saturday,None,0
+Arun,Sunday,Public Holiday,0
+Arun,Monday,None,1
+Arun,Tuesday,None,1
+Arun,Wednesday,None,1
+Arun,Thursday,None,1
+Arun,Friday,None,1
+Arun,Saturday,None,0
+Arun,Sunday,Public Holiday,0
+Arun,Monday,None,1
+Arun,Tuesday,None,1
+Arun,Wednesday,None,1
+Arun,Thursday,None,1
+Arun,Friday,None,1
+Arun,Saturday,None,0
+Arun,Sunday,Public Holiday,0
+Arun,Monday,Weekend,0
+Arun,Tuesday,Weekend,0
+Arun,Wednesday,None,1
+Arun,Thursday,None,1
+Arun,Friday,None,1
+Arun,Saturday,None,0
+Arun,Sunday,Public Holiday,0
+Arun,Monday,None,1
+Raunak,Wednesday,None,1
+Raunak,Thursday,None,1
+Raunak,Friday,None,1
+Raunak,Saturday,None,0
+Raunak,Sunday,Public Holiday,0
+Raunak,Monday,None,1
+Raunak,Tuesday,None,1
+Raunak,Wednesday,None,1
+Raunak,Thursday,None,1
+Raunak,Friday,None,1
+Raunak,Saturday,None,0
+Raunak,Sunday,Public Holiday,0
+Raunak,Monday,Weekend,0
+Raunak,Tuesday,Weather,0
+Raunak,Wednesday,None,1
+Raunak,Thursday,None,1
+Raunak,Friday,None,1
+Raunak,Saturday,None,0
+Raunak,Sunday,Public Holiday,0
+Raunak,Monday,None,1
+Raunak,Tuesday,None,1
+Raunak,Wednesday,None,1
+Raunak,Thursday,None,1
+Raunak,Friday,None,1
+Raunak,Saturday,None,0
+Raunak,Sunday,Public Holiday,0
+Raunak,Monday,None,1
+Raunak,Tuesday,None,1
+Raunak,Wednesday,None,1
+Raunak,Thursday,None,1
+Raunak,Friday,None,1
+Raunak,Saturday,None,0
+Raunak,Sunday,Public Holiday,0
+Raunak,Monday,Weekend,0
+Raunak,Tuesday,None,1
+Raunak,Wednesday,None,1
+Raunak,Thursday,None,1
+Raunak,Friday,None,1
+Raunak,Saturday,None,0
+Raunak,Sunday,Public Holiday,0
+Raunak,Monday,Weather,0
+Raunak,Tuesday,None,1
+Raunak,Wednesday,None,1
+Raunak,Thursday,None,1
+Raunak,Friday,Health Issues,0
+Raunak,Saturday,None,0
+Raunak,Sunday,Public Holiday,0
+Raunak,Monday,Health Issues,0
+Raunak,Tuesday,None,1
+Raunak,Wednesday,None,1
+Raunak,Thursday,None,1
+Raunak,Friday,None,1
+Raunak,Saturday,None,0
+Raunak,Sunday,Public Holiday,0
+Raunak,Monday,None,1
+Raunak,Tuesday,None,1
+Raunak,Wednesday,None,1
+Raunak,Thursday,None,1
+Raunak,Friday,None,1
+Raunak,Saturday,None,0
+Raunak,Sunday,Public Holiday,0
+Raunak,Monday,Weekend,0
+sanjay,Wednesday,None,1
+sanjay,Thursday,None,1
+sanjay,Friday,None,1
+sanjay,Saturday,None,0
+sanjay,Sunday,Public Holiday,0
+sanjay,Monday,None,1
+sanjay,Tuesday,DOB,0
+sanjay,Wednesday,Health Issues,0
+sanjay,Thursday,None,1
+sanjay,Friday,None,1
+sanjay,Saturday,None,0
+sanjay,Sunday,Public Holiday,1
+sanjay,Monday,None,1
+sanjay,Tuesday,None,1
+sanjay,Wednesday,None,1
+sanjay,Thursday,None,1
+sanjay,Friday,None,1
+sanjay,Saturday,None,0
+sanjay,Sunday,Public Holiday,0
+sanjay,Monday,Weekend,0
+sanjay,Tuesday,Health Issues,0
+sanjay,Wednesday,None,1
+sanjay,Thursday,None,1
+sanjay,Friday,None,1
+sanjay,Saturday,None,0
+sanjay,Sunday,Public Holiday,0
+sanjay,Monday,None,1
+sanjay,Tuesday,None,1
+sanjay,Wednesday,None,1
+sanjay,Thursday,None,1
+sanjay,Friday,None,1
+sanjay,Saturday,None,0
+sanjay,Sunday,Public Holiday,0
+sanjay,Monday,Weekend,0
+sanjay,Tuesday,None,1
+sanjay,Wednesday,None,1
+sanjay,Thursday,None,1
+sanjay,Friday,None,1
+sanjay,Saturday,None,0
+sanjay,Sunday,Public Holiday,0
+sanjay,Monday,None,1
+sanjay,Tuesday,None,1
+sanjay,Wednesday,None,1
+sanjay,Thursday,None,1
+sanjay,Friday,None,1
+sanjay,Saturday,None,0
+sanjay,Sunday,Public Holiday,0
+sanjay,Monday,None,1
+sanjay,Tuesday,None,1
+sanjay,Wednesday,None,1
+sanjay,Thursday,None,1
+sanjay,Friday,None,1
+sanjay,Saturday,None,0
+sanjay,Sunday,Public Holiday,0
+sanjay,Monday,None,1
+sanjay,Tuesday,None,1
+sanjay,Wednesday,Health Issues,0
+sanjay,Thursday,None,1
+sanjay,Friday,None,1
+sanjay,Saturday,None,0
+sanjay,Sunday,Public Holiday,0
+sanjay,Monday,Weekend,0
